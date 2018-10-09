@@ -2,7 +2,7 @@
 
 在 IntelliJ IDEA 中有两个 Mac 版本的快捷键，一个叫做：Mac OS X，一个叫做：Mac OS X 10.5+，此版本是Mac OS X 10.5+，根据官方PDF进行翻译。目前都是用 Mac OS X 10.5+。[官方英文PDF](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 
-[为什么会有两套快捷键](https://intellij-support.jetbrains.com/hc/en-us/community/posts/206159109-Updated-Mac-OS-X-keymap-Feedback-needed) 
+[为什么会有两套快捷键](https://intellij-support.jetbrains.com/hc/en-us/community/posts/206159109-Updated-Mac-OS-X-keymap-Feedback-needed) 
 
 
 ## Mac键盘符号和修饰键说明
