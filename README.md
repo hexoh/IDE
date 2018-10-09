@@ -1,2 +1,1 @@
-# IDE
-IDE study, IDE keymap
+# 快捷键
