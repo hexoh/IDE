@@ -2,4 +2,4 @@
 
 ## IntelliJ IDEA
 
-* [Mac](/IntelliJ%20IDEA/Mac.md)
+* [Mac](/IntelliJ&nbsp;IDEA/Mac.md)
