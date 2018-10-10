@@ -4,6 +4,7 @@
 
 [为什么会有两套快捷键](https://intellij-support.jetbrains.com/hc/en-us/community/posts/206159109-Updated-Mac-OS-X-keymap-Feedback-needed) 
 
+IntelliJ IDEA 官方出的学习辅助插件：[IDE Features Trainer](https://plugins.jetbrains.com/plugin/8554-ide-features-trainer)
 
 ## Mac键盘符号和修饰键说明
 
