@@ -59,7 +59,7 @@ IntelliJ IDEA 官方出的学习辅助插件：[IDE Features Trainer](https://pl
 
 | 快捷键 | 介绍 |
 | --- | --- |
-| <strong>```Alt + ` ```</strong> | 显示版本控制常用操作菜单弹出层 ```（必备）``` |
+| <strong>```Alt + ` ```</strong> | 显示版本控制常用操作菜单弹出层 |
 | <strong>```Alt + Q```</strong> | 弹出一个提示，显示当前类的声明 / 上下文信息 |
 | <strong>```Alt + F1```</strong> | 显示当前文件选择目标弹出层，弹出层中有很多目标可以进行选择 ```（必备）``` |
 | <strong>```Alt + F2```</strong> | 对于前面页面，显示各类浏览器打开目标选择弹出层 |
