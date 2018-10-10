@@ -1,8 +1,8 @@
 # IntelliJ IDEA For Windows / Linux 快捷键
 
-Windows / Linux 操作快捷键根据我个人习惯按键分类，并没有按照官方的文档去翻译。[官方英文PDF](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
+Windows / Linux 操作快捷键根据我个人习惯按键分类，并没有按照官方的文档去翻译。[官方英文PDF](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf){:target="_blank"}
 
-IntelliJ IDEA 官方出的学习辅助插件：[IDE Features Trainer](https://plugins.jetbrains.com/plugin/8554-ide-features-trainer)
+IntelliJ IDEA 官方出的学习辅助插件：[IDE Features Trainer](https://plugins.jetbrains.com/plugin/8554-ide-features-trainer){:target="_blank"}
 
 ## Ctrl
 
