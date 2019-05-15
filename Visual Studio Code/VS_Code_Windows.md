@@ -2,7 +2,7 @@
 
 本文为 Visual Studio Code [Keyboard Shortcuts Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) 翻译版。与官网同步更新，如未及时更新欢迎指正提醒。
 
-## 常用  General
+## 常用 General
 
 | 按 Press | 功能 Function |
 | --- | --- |
@@ -13,36 +13,36 @@
 | Ctrl + , | 用户设置 User Settings |
 | Ctrl + K Ctrl + S | 设置键盘快捷方式 Keyboard Shortcuts |
 
-## 基础编辑  Basic editing
+## 基本编辑 Basic editing
 
 | 按 Press | 功能 Function |
 | --- | --- |
 | Ctrl + X | 剪切行（空选定） Cut line (empty selection) |
-Ctrl + C	复制行（空选定）Copy line (empty selection)
-Alt + ↑ / ↓	向上/向下移动行 Move line up/down
-Shift + Alt + ↓ / ↑	向上/向下复制行 Copy line up/down
-Ctrl + Shift + K	删除行 Delete line
-Ctrl + Enter	在下面插入行 Insert line below
-Ctrl + Shift + Enter	在上面插入行 Insert line above
-Ctrl + Shift + \	跳到匹配的括号 Jump to matching bracket
-Ctrl + ] / [	缩进/缩进行 Indent/outdent line
-Home	转到行首 Go to beginning of line
-End	转到行尾 Go to end of line
-Ctrl + Home	转到文件开头 Go to beginning of file
-Ctrl + End	转到文件末尾 Go to end of file
-Ctrl + ↑ / ↓	向上/向下滚动行 Scroll line up/down
-Alt + PgUp / PgDown	向上/向下滚动页面 Scroll page up/down
-Ctrl + Shift + [	折叠（折叠）区域 Fold (collapse) region
-Ctrl + Shift + ]	展开（未折叠）区域 Unfold (uncollapse) region
-Ctrl + K Ctrl + [	折叠（未折叠）所有子区域 Fold (collapse) all subregions
-Ctrl + K Ctrl + ]	展开（未折叠）所有子区域 Unfold (uncollapse) all subregions
-Ctrl + K Ctrl + 0	折叠（折叠）所有区域 Fold (collapse) all regions
-Ctrl + K Ctrl + J	展开（未折叠）所有区域 Unfold (uncollapse) all regions
-Ctrl + K Ctrl + C	添加行注释 Add line comment
-Ctrl + K Ctrl + U	删除行注释 Remove line comment
-Ctrl + /	切换行注释 Toggle line comment
-Shift + Alt + A	切换块注释 Toggle block comment
-Alt + Z	切换换行 Toggle word wrap
+| Ctrl + C | 复制行（空选定）Copy line (empty selection) |
+| Alt + ↑ / ↓ | 向上/向下移动行 Move line up/down |
+| Shift + Alt + ↓ / ↑ | 向上/向下复制行 Copy line up/down |
+| Ctrl + Shift + K | 删除行 Delete line |
+| Ctrl + Enter | 在下面插入行 Insert line below |
+| Ctrl + Shift + Enter | 在上面插入行 Insert line above |
+| Ctrl + Shift + \ | 跳到匹配的括号 Jump to matching bracket |
+| Ctrl + ] / [ | 缩进/缩进行 Indent/outdent line |
+| Home | 转到行首 Go to beginning of line |
+| End | 转到行尾 Go to end of line |
+| Ctrl + Home | 转到文件开头 Go to beginning of file |
+| Ctrl + End | 转到文件末尾 Go to end of file |
+| Ctrl + ↑ / ↓ | 向上/向下滚动行 Scroll line up/down |
+| Alt + PgUp / PgDown | 向上/向下滚动页面 Scroll page up/down |
+| Ctrl + Shift + [ | 折叠（折叠）区域 Fold (collapse) region |
+| Ctrl + Shift + ] | 展开（未折叠）区域 Unfold (uncollapse) region |
+| Ctrl + K Ctrl + [ | 折叠（未折叠）所有子区域 Fold (collapse) all subregions |
+| Ctrl + K Ctrl + ] | 展开（未折叠）所有子区域 Unfold (uncollapse) all subregions |
+| Ctrl + K Ctrl + 0 | 折叠（折叠）所有区域 Fold (collapse) all regions |
+| Ctrl + K Ctrl + J | 展开（未折叠）所有区域 Unfold (uncollapse) all regions |
+| Ctrl + K Ctrl + C | 添加行注释 Add line comment |
+| Ctrl + K Ctrl + U | 删除行注释 Remove line comment |
+| Ctrl + / | 切换行注释 Toggle line comment |
+| Shift + Alt + A | 切换块注释 Toggle block comment |
+| Alt + Z | 切换换行 Toggle word wrap |
 导航 Navigation
 按 Press	功能 Function
 Ctrl + T	显示所有符号 Show all Symbols
