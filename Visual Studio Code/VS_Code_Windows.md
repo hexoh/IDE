@@ -2,7 +2,7 @@
 
 本文为 Visual Studio Code [Keyboard Shortcuts Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) 翻译版。与官网同步更新，如未及时更新欢迎指正提醒。
 
-## 常用 General
+## 常用  General
 
 | 按 Press | 功能 Function |
 | --- | --- |
@@ -13,7 +13,7 @@
 | Ctrl + , | 用户设置 User Settings |
 | Ctrl + K Ctrl + S | 设置键盘快捷方式 Keyboard Shortcuts |
 
-## 基础编辑 Basic editing
+## 基础编辑  Basic editing
 
 | 按 Press | 功能 Function |
 | --- | --- |
