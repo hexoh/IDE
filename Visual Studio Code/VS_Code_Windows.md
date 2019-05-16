@@ -121,61 +121,61 @@
 
 | 按 Press | 功能 Function |
 | --- | --- |
-| Ctrl + N | 新文件 New File |
-| Ctrl + O | 打开文件... Open File... |
-| Ctrl + S | 保存 Save |
-| Ctrl + Shift + S | 另存为... Save As... |
-| Ctrl + K S | 全部保存 Save All |
-| Ctrl + F4 | 关闭 Close |
-| Ctrl + K Ctrl + W | 关闭所有 Close All |
-| Ctrl + Shift + T | 重新打开关闭的编辑器 Reopen closed editor |
-| Ctrl + K Enter | 输入保持打开 Enter Keep Open |
-| Ctrl + Tab | 打开下一个 Open next |
-| Ctrl + Shift + Tab | 打开上一个 Open previous |
-| Ctrl + K P | 复制活动文件的路径 Copy path of active file |
-| Ctrl + K R | 显示资源管理器中的活动文件 Reveal active file in Explorer |
-| Ctrl + K O | 显示新窗口/实例中的活动文件 Show active file in new window/instance |
+| **`Ctrl + N`** | 新文件 New File |
+| **`Ctrl + O`** | 打开文件... Open File... |
+| **`Ctrl + S`** | 保存 Save |
+| **`Ctrl + Shift + S`** | 另存为... Save As... |
+| **`Ctrl + K S`** | 全部保存 Save All |
+| **`Ctrl + F4`** | 关闭 Close |
+| **`Ctrl + K Ctrl + W`** | 关闭所有 Close All |
+| **`Ctrl + Shift + T`** | 重新打开关闭的编辑器 Reopen closed editor |
+| **`Ctrl + K Enter`** | 输入保持打开 Enter Keep Open |
+| **`Ctrl + Tab`** | 打开下一个 Open next |
+| **`Ctrl + Shift + Tab`** | 打开上一个 Open previous |
+| **`Ctrl + K P`** | 复制活动文件的路径 Copy path of active file |
+| **`Ctrl + K R`** | 显示资源管理器中的活动文件 Reveal active file in Explorer |
+| **`Ctrl + K O`** | 显示新窗口/实例中的活动文件 Show active file in new window/instance |
 
 ## 显示 Display
 
 | 按 Press | 功能 Function |
 | --- | --- |
-| F11 | 切换全屏 Toggle full screen |
-| Shift + Alt + 0 | 切换编辑器布局 Toggle editor layout |
-| Ctrl + = / - | 放大/缩小 Zoom in/out |
-| Ctrl + B | 切换侧栏可见性 Toggle Sidebar visibility |
-| Ctrl + Shift + E | 显示浏览器/切换焦点 Show Explorer / Toggle focus |
-| Ctrl + Shift + F | 显示搜索 Show Search |
-| Ctrl + Shift + G | 显示 Git Show Git |
-| Ctrl + Shift + D | 显示调试 Show Debug |
-| Ctrl + Shift + X | 显示扩展 Show Extensions |
-| Ctrl + Shift + H | 替换文件 Replace in files |
-| Ctrl + Shift + J | 切换搜索详细信息 Toggle Search details |
-| Ctrl + Shift + C | 打开新命令提示符/终端 Open new command prompt/terminal |
-| Ctrl + Shift +U | 显示输出面板 Show Output panel |
-| Ctrl + Shift + V | 切换 Markdown 预览 Toggle Markdown preview |
-| Ctrl + K V | 从旁边打开 Markdown 预览 Open Markdown preview to the side |
-| Ctrl + K Z | 打开禅模式（ Esc 键退出） Zen Mode (Esc Esc to ecit) |
+| **`F11`** | 切换全屏 Toggle full screen |
+| **`Shift + Alt + 0`** | 切换编辑器布局 Toggle editor layout |
+| **`Ctrl + = / -`** | 放大/缩小 Zoom in/out |
+| **`Ctrl + B`** | 切换侧栏可见性 Toggle Sidebar visibility |
+| **`Ctrl + Shift + E`** | 显示浏览器/切换焦点 Show Explorer / Toggle focus |
+| **`Ctrl + Shift + F`** | 显示搜索 Show Search |
+| **`Ctrl + Shift + G`** | 显示 Git Show Git |
+| **`Ctrl + Shift + D`** | 显示调试 Show Debug |
+| **`Ctrl + Shift + X`** | 显示扩展 Show Extensions |
+| **`Ctrl + Shift + H`** | 替换文件 Replace in files |
+| **`Ctrl + Shift + J`** | 切换搜索详细信息 Toggle Search details |
+| **`Ctrl + Shift + C`** | 打开新命令提示符/终端 Open new command prompt/terminal |
+| **`Ctrl + Shift + U`** | 显示输出面板 Show Output panel |
+| **`Ctrl + Shift + V`** | 切换 Markdown 预览 Toggle Markdown preview |
+| **`Ctrl + K V`** | 从旁边打开 Markdown 预览 Open Markdown preview to the side |
+| **`Ctrl + K Z`** | 打开禅模式（ Esc 键退出） Zen Mode (Esc Esc to ecit) |
 
 ## 调试 Debug
 
 | 按 Press | 功能 Function|
 | --- | --- |
-| F9 | 切换断点 Toggle breakpoint|
-| F5 | 开始/继续 Start/Continue|
-| Shift + F5 | 停止 Stop|
-| F11 / Shift + F11 | 下一步/上一步 Step into/out|
-| F10 | 跳过 Step over|
-| Ctrl + K Ctrl + I | 显示悬停 Show hover|
+| **`F9`** | 切换断点 Toggle breakpoint|
+| **`F5`** | 开始/继续 Start/Continue|
+| **`Shift + F5`** | 停止 Stop|
+| **`F11 / Shift + F11`** | 下一步/上一步 Step into/out|
+| **`F10`** | 跳过 Step over|
+| **`Ctrl + K Ctrl + I`** | 显示悬停 Show hover|
 
 ## 集成终端 Integrated terminal
 
 | 按 Press | 功能 Function |
 | --- | --- |
-| Ctrl + ` | 显示集成终端 Show integrated terminal |
-| Ctrl + Shift + ` | 创建新终端 Create new terminal |
-| Ctrl + C | 复制选定 Copy selection |
-| Ctrl + V | 粘贴到活动端子 Paste into active terminal |
-| Ctrl + ↑ / ↓ | 向上/向下滚动 Scroll up/down |
-| Shift + PgUp / PgDown | 向上/向下滚动页面 Scroll page up/down |
-| Ctrl + Home / End | 滚动到顶部/底部 Scroll to top/bottom |
+| **```Ctrl + ` ```** | 显示集成终端 Show integrated terminal |
+| **```Ctrl + Shift + ` ```** | 创建新终端 Create new terminal |
+| **`Ctrl + C`** | 复制选定 Copy selection |
+| **`Ctrl + V`** | 粘贴到活动端子 Paste into active terminal |
+| **`Ctrl + ↑ / ↓`** | 向上/向下滚动 Scroll up/down |
+| **`Shift + PgUp / PgDown`** | 向上/向下滚动页面 Scroll page up/down |
+| **`Ctrl + Home / End`** | 滚动到顶部/底部 Scroll to top/bottom |
