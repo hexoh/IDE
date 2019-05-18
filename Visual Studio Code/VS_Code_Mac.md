@@ -19,8 +19,8 @@
 | --- | --- |
 | **`⌘ + X`** | 剪贴（空选） Cut line (empty selection) |
 | **`⌘ + C`** | 复制（空选） Copy line (empty selection) |
-| ⌥↓ / ⌥↑ | Move line down/up |
-| ⇧⌥↓ / ⇧⌥↑ | Copy line down/up |
+| **`⌥ + ↓ / ⌥ + ↑`** | 向下/向上移动行 Move line down/up |
+| **`⇧ + ⌥ + ↓ / ⇧ + ⌥ + ↑`** | 向下/向上复制行 Copy line down/up |
 | ⇧⌘K | Delete line |
 | ⌘Enter / ⇧⌘Enter  | Insert line below/above |
 | ⇧⌘\ | Jump to matching bracket |
