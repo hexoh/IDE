@@ -14,3 +14,26 @@
 | **`⌘ + K ⌘ + S`** | 设置键盘快捷方式 Keyboard Shortcuts |
 
 ## 基本编辑 Basic editing
+
+| 快捷键 | 说明 |
+| --- | --- |
+| **`⌘ + X`** | 剪贴（空选） Cut line (empty selection) |
+| **`⌘ + C`** | 复制（空选） Copy line (empty selection) |
+| ⌥↓ / ⌥↑ | Move line down/up |
+| ⇧⌥↓ / ⇧⌥↑ | Copy line down/up |
+| ⇧⌘K | Delete line |
+| ⌘Enter / ⇧⌘Enter  | Insert line below/above |
+| ⇧⌘\ | Jump to matching bracket |
+| ⌘] / ⌘[ | Indent/outdent line |
+| Home / End | Go to beginning/end of line |
+| ⌘↑ / ⌘↓ | Go to beginning/end of file |
+| ⌃PgUp / ⌃PgDn | Scroll line up/down  |
+| ⌘PgUp /⌘PgDn | Scroll page up/down |
+| ⌥⌘[  / ⌥⌘] | Fold/unfold region |
+| ⌘K ⌘[  /  ⌘K ⌘] | Fold/unfold all subregions |
+| ⌘K ⌘0  /  ⌘K ⌘J | Fold/unfold all regions |
+| ⌘K ⌘C | Add line comment |
+| ⌘K ⌘U | Remove line comment |
+| ⌘/ | Toggle line comment |
+| ⇧⌥A | Toggle block comment |
+| ⌥Z | Toggle word wrap |
