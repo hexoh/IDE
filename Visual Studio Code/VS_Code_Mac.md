@@ -25,11 +25,11 @@
 | **`⌘ + Enter / ⇧ + ⌘ + Enter`**  | 在下方/上方插入行 Insert line below/above |
 | **`⇧ + ⌘ + \`** | 跳转到匹配的括号 Jump to matching bracket |
 | **`⌘ + ] / ⌘ + [`** | 缩进/反缩进行 Indent/outdent line |
-| Home / End | Go to beginning/end of line |
-| ⌘↑ / ⌘↓ | Go to beginning/end of file |
-| ⌃PgUp / ⌃PgDn | Scroll line up/down  |
-| ⌘PgUp /⌘PgDn | Scroll page up/down |
-| ⌥⌘[  / ⌥⌘] | Fold/unfold region |
+| **`Home / End`** | 转到开头/行尾 Go to beginning/end of line |
+| **`⌘ + ↑ / ⌘ + ↓`** | 转到文件开头/行尾 Go to beginning/end of file |
+| **`⌃ + PgUp / ⌃ + PgDn`** | 向上/向下滚动行 Scroll line up/down |
+| **`⌘ + PgUp / ⌘ + PgDn`** | 向上/向下滚动页面 Scroll page up/down |
+| **`⌥ + ⌘ + [  / ⌥ + ⌘ + ]`** | 折叠/展开区域 Fold/unfold region |
 | ⌘K ⌘[  /  ⌘K ⌘] | Fold/unfold all subregions |
 | ⌘K ⌘0  /  ⌘K ⌘J | Fold/unfold all regions |
 | ⌘K ⌘C | Add line comment |
