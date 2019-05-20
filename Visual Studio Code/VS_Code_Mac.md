@@ -30,9 +30,9 @@
 | **`⌃ + PgUp / ⌃ + PgDn`** | 向上/向下滚动行 Scroll line up/down |
 | **`⌘ + PgUp / ⌘ + PgDn`** | 向上/向下滚动页面 Scroll page up/down |
 | **`⌥ + ⌘ + [  / ⌥ + ⌘ + ]`** | 折叠/展开区域 Fold/unfold region |
-| ⌘K ⌘[  /  ⌘K ⌘] | Fold/unfold all subregions |
-| ⌘K ⌘0  /  ⌘K ⌘J | Fold/unfold all regions |
-| ⌘K ⌘C | Add line comment |
+| **`⌘ + K ⌘ + [  /  ⌘ + K ⌘ + ]`** | 折叠/展开所有子区域 Fold/unfold all subregions |
+| **`⌘ + K ⌘ + 0  /  ⌘ + K ⌘ + J`** | 折叠/展开所有区域 Fold/unfold all regions |
+| **`⌘ + K ⌘ + C`** | 添加行注释 Add line comment |
 | ⌘K ⌘U | Remove line comment |
 | ⌘/ | Toggle line comment |
 | ⇧⌥A | Toggle block comment |
