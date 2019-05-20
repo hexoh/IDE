@@ -21,10 +21,10 @@
 | **`⌘ + C`** | 复制（空选） Copy line (empty selection) |
 | **`⌥ + ↓ / ⌥ + ↑`** | 向下/向上移动行 Move line down/up |
 | **`⇧ + ⌥ + ↓ / ⇧ + ⌥ + ↑`** | 向下/向上复制行 Copy line down/up |
-| ⇧⌘K | Delete line |
-| ⌘Enter / ⇧⌘Enter  | Insert line below/above |
-| ⇧⌘\ | Jump to matching bracket |
-| ⌘] / ⌘[ | Indent/outdent line |
+| **`⇧ + ⌘ + K`** | 删除行 Delete line |
+| **`⌘ + Enter / ⇧ + ⌘ + Enter`**  | 在下方/上方插入行 Insert line below/above |
+| **`⇧ + ⌘ + \`** | 跳转到匹配的括号 Jump to matching bracket |
+| **`⌘ + ] / ⌘ + [`** | 缩进/反缩进行 Indent/outdent line |
 | Home / End | Go to beginning/end of line |
 | ⌘↑ / ⌘↓ | Go to beginning/end of file |
 | ⌃PgUp / ⌃PgDn | Scroll line up/down  |
