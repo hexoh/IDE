@@ -33,7 +33,7 @@
 | **`⌘ + K ⌘ + [  /  ⌘ + K ⌘ + ]`** | 折叠/展开所有子区域 Fold/unfold all subregions |
 | **`⌘ + K ⌘ + 0  /  ⌘ + K ⌘ + J`** | 折叠/展开所有区域 Fold/unfold all regions |
 | **`⌘ + K ⌘ + C`** | 添加行注释 Add line comment |
-| ⌘K ⌘U | Remove line comment |
-| ⌘/ | Toggle line comment |
-| ⇧⌥A | Toggle block comment |
+| **`⌘ + K ⌘ + U`** | 删除行注释 Remove line comment |
+| **`⌘ + /`** | 切换行注释 Toggle line comment |
+| **`⇧ + ⌥ + A`** | 切换块注释 Toggle block comment |
 | ⌥Z | Toggle word wrap |
