@@ -25,7 +25,7 @@
 | **`Ctrl + Enter`** | 在下面插入行 Insert line below |
 | **`Ctrl + Shift + Enter`** | 在上面插入行 Insert line above |
 | **`Ctrl + Shift + \`** | 跳到匹配的括号 Jump to matching bracket |
-| **`Ctrl + ] / [`** | 缩进/缩进行 Indent/outdent line |
+| **`Ctrl + ] / [`** | 缩进/反缩进行 Indent/outdent line |
 | **`Home`** | 转到行首 Go to beginning of line |
 | **`End`** | 转到行尾 Go to end of line |
 | **`Ctrl + Home`** | 转到文件开头 Go to beginning of file |
