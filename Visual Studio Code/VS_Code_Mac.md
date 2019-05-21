@@ -38,4 +38,6 @@
 | **`⇧ + ⌥ + A`** | 切换块注释 Toggle block comment |
 | **`⌥ + Z`** | 切换自动换行 Toggle word wrap |
 
-## 
+## 多光标和选择 Multi-cursor and selection
+
+⌥ + click Insert cursor ⌥⌘↑ Insert cursor above ⌥⌘↓ Insert cursor below ⌘U Undo last cursor operation ⇧⌥I Insert cursor at end of each line selected ⌘L Select current line ⇧⌘L Select all occurrences of current selection ⌘F2 Select all occurrences of current word ⌃⇧⌘→ / ← Expand / shrink selection ⇧⌥ + drag mouse Column (box) selection ⇧⌥⌘↑ / ↓ Column (box) selection up/down ⇧⌥⌘← / → Column (box) selection left/right ⇧⌥⌘PgUp Column (box) selection page up ⇧⌥⌘PgDn Column (box) selection page down 
