@@ -42,12 +42,17 @@
 
 | 快捷键 | 说明 |
 | --- | --- |
-| ⌥ + click | Insert cursor |
-| ⌥⌘↑ | Insert cursor above |
-| ⌥⌘↓ | Insert cursor below |
-| ⌘U | Undo last cursor operation |
-| ⇧⌥I | Insert cursor at end of each line selected |
-| ⌘L | Select current line |
-| ⇧⌘L | Select all occurrences of current selection |
-| ⌘F2 | Select all occurrences of current word |
-| ⌃⇧⌘→ / ← Expand / shrink selection ⇧⌥ + drag mouse Column (box) selection ⇧⌥⌘↑ / ↓ Column (box) selection up/down ⇧⌥⌘← / → Column (box) selection left/right ⇧⌥⌘PgUp Column (box) selection page up ⇧⌥⌘PgDn Column (box) selection page down 
+| **`⌥ + click`** | 插入光标 Insert cursor |
+| **`⌥ + ⌘ + ↑`** | 在上方插入光标 Insert cursor above |
+| **`⌥ + ⌘ + ↓`** | 在下方插入光标 Insert cursor below |
+| **`⌘ + U`** | 撤消上一个光标操作 Undo last cursor operation |
+| **`⇧ + ⌥ + I`** | Insert cursor at end of each line selected |
+| **`⌘ + L`** | Select current line |
+| **`⇧ + ⌘ + L`** | Select all occurrences of current selection |
+| **`⌘ + F2`** | Select all occurrences of current word |
+| **`⌃ + ⇧ + ⌘ + → / ←`** | Expand / shrink selection |
+| **`⇧ + ⌥ + drag mouse`** | Column (box) selection |
+| **`⇧ + ⌥ + ⌘ + ↑ / ↓`** | Column (box) selection up/down |
+| **`⇧ + ⌥ + ⌘ + ← / →`** | Column (box) selection left/right |
+| **`⇧ + ⌥ + ⌘ + PgUp`** | Column (box) selection page up |
+| **`⇧ + ⌥ + ⌘ + PgDn`** | Column (box) selection page down |
