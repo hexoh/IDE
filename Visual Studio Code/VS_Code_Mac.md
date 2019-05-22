@@ -52,7 +52,7 @@
 | **`⌘ + F2`** | 选择所有出现的当前单词 Select all occurrences of current word |
 | **`⌃ + ⇧ + ⌘ + → / ←`** | 展开/收起选择 Expand / shrink selection |
 | **`⇧ + ⌥ + drag mouse`** | 选择列（框） Column (box) selection |
-| **`⇧ + ⌥ + ⌘ + ↑ / ↓`** | Column (box) selection up/down |
-| **`⇧ + ⌥ + ⌘ + ← / →`** | Column (box) selection left/right |
-| **`⇧ + ⌥ + ⌘ + PgUp`** | Column (box) selection page up |
-| **`⇧ + ⌥ + ⌘ + PgDn`** | Column (box) selection page down |
+| **`⇧ + ⌥ + ⌘ + ↑ / ↓`** | 向上/向下选择列（框） Column (box) selection up/down |
+| **`⇧ + ⌥ + ⌘ + ← / →`** | 向左/向右选择列（框） Column (box) selection left/right |
+| **`⇧ + ⌥ + ⌘ + PgUp`** | 向上选择页面列（框） Column (box) selection page up |
+| **`⇧ + ⌥ + ⌘ + PgDn`** | 向下选择页面列（框） Column (box) selection page down |
