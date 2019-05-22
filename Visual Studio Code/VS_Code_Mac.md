@@ -56,3 +56,19 @@
 | **`⇧ + ⌥ + ⌘ + ← / →`** | 向左/向右选择列（框） Column (box) selection left/right |
 | **`⇧ + ⌥ + ⌘ + PgUp`** | 向上选择页面列（框） Column (box) selection page up |
 | **`⇧ + ⌥ + ⌘ + PgDn`** | 向下选择页面列（框） Column (box) selection page down |
+
+## 查找和替换 Search and replace
+
+| 快捷键 | 说明 |
+| --- | --- |
+| **`⌘ + F`** | 查找 Find |
+⌥⌘F
+⌘G / ⇧⌘G
+⌥Enter
+⌘D
+
+Replace
+Find next/previous
+Select all occurrences of Find match
+Add selection to next Find match
+Move last selection to next Find match
