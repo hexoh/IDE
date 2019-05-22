@@ -46,12 +46,12 @@
 | **`⌥ + ⌘ + ↑`** | 在上方插入光标 Insert cursor above |
 | **`⌥ + ⌘ + ↓`** | 在下方插入光标 Insert cursor below |
 | **`⌘ + U`** | 撤消上一个光标操作 Undo last cursor operation |
-| **`⇧ + ⌥ + I`** | Insert cursor at end of each line selected |
-| **`⌘ + L`** | Select current line |
-| **`⇧ + ⌘ + L`** | Select all occurrences of current selection |
-| **`⌘ + F2`** | Select all occurrences of current word |
-| **`⌃ + ⇧ + ⌘ + → / ←`** | Expand / shrink selection |
-| **`⇧ + ⌥ + drag mouse`** | Column (box) selection |
+| **`⇧ + ⌥ + I`** | 将光标插入所选每行的末尾 Insert cursor at end of each line selected |
+| **`⌘ + L`** | 选择当前行 Select current line |
+| **`⇧ + ⌘ + L`** | 选择所有出现的当前选择 Select all occurrences of current selection |
+| **`⌘ + F2`** | 选择所有出现的当前单词 Select all occurrences of current word |
+| **`⌃ + ⇧ + ⌘ + → / ←`** | 展开/收起选择 Expand / shrink selection |
+| **`⇧ + ⌥ + drag mouse`** | 选择列（框） Column (box) selection |
 | **`⇧ + ⌥ + ⌘ + ↑ / ↓`** | Column (box) selection up/down |
 | **`⇧ + ⌥ + ⌘ + ← / →`** | Column (box) selection left/right |
 | **`⇧ + ⌥ + ⌘ + PgUp`** | Column (box) selection page up |
