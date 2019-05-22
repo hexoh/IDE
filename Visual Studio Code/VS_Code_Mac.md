@@ -62,13 +62,8 @@
 | 快捷键 | 说明 |
 | --- | --- |
 | **`⌘ + F`** | 查找 Find |
-⌥⌘F
-⌘G / ⇧⌘G
-⌥Enter
-⌘D
-
-Replace
-Find next/previous
-Select all occurrences of Find match
-Add selection to next Find match
-Move last selection to next Find match
+| **`⌥ + ⌘ + F`** | 替换 Replace |
+| **`⌘ + G / ⇧ + ⌘ + G`** | 查找下一个/上一个 Find next/previous |
+| **`⌥ + Enter`** | 选择所有出现的查找匹配项 Select all occurrences of Find match |
+| **`⌘ + D`** | 添加选择到下一个查找匹配 Add selection to next Find match |
+| **`⌘ + K ⌘ + D`** | 将上一个选择移到下一个查找匹配 Move last selection to next Find match |
