@@ -67,3 +67,29 @@
 | **`⌥ + Enter`** | 选择所有出现的查找匹配项 Select all occurrences of Find match |
 | **`⌘ + D`** | 添加选择到下一个查找匹配 Add selection to next Find match |
 | **`⌘ + K ⌘ + D`** | 将上一个选择移到下一个查找匹配 Move last selection to next Find match |
+
+## 丰富的语言编辑 Rich languages editing
+
+| 快捷键 | 说明 |
+| --- | --- |
+⌃Space Trigger suggestion
+⇧⌘Space Trigger parameter hints
+⇧⌥F Format document
+⌘K ⌘F Format selection
+F12 Go to Definition
+⌥F12 Peek Definition
+⌘K F12 Open Definition to the side
+⌘. Quick Fix
+⇧F12 Show References
+F2 Rename Symbol
+⌘K ⌘X
+⌘K M Navigation
+⌘T Trim trailing whitespace
+⌃G Change file language
+⌘P
+⇧⌘O
+⇧⌘M
+F8/⇧F8
+⌃⇧T ab
+⌃- / ⌃⇧-
+⌃⇧M
