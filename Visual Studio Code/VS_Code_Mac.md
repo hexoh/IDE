@@ -87,8 +87,8 @@ F2 Rename Symbol
 
 ## Navigation
 
-⌘T Trim 
-⌃G Change file language
+⌘T  
+⌃G 
 ⌘P
 ⇧⌘O
 ⇧⌘M
