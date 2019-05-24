@@ -85,6 +85,7 @@ F2 Rename Symbol
 ⌘K ⌘X Trim trailing whitespace
 ⌘K M Change file language
 
+## Navigation
 
 ⌘T Trim 
 ⌃G Change file language
