@@ -82,9 +82,11 @@ F12 Go to Definition
 ⌘. Quick Fix
 ⇧F12 Show References
 F2 Rename Symbol
-⌘K ⌘X
-⌘K M Navigation
-⌘T Trim trailing whitespace
+⌘K ⌘X Trim trailing whitespace
+⌘K M Change file language
+
+
+⌘T Trim 
 ⌃G Change file language
 ⌘P
 ⇧⌘O
