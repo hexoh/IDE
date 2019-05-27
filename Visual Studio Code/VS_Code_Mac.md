@@ -74,7 +74,7 @@
 | --- | --- |
 | **`⌃ + Space`** | 触发建议 Trigger suggestion |
 | **`⇧ + ⌘ + Space`** | 触发参数提示 Trigger parameter hints |
-⇧⌥F Format document
+| **`⇧ + ⌥ + F`** | 格式化文档 Format document |
 ⌘K ⌘F Format selection
 F12 Go to Definition
 ⌥F12 Peek Definition
