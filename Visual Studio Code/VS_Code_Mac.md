@@ -72,7 +72,7 @@
 
 | 快捷键 | 说明 |
 | --- | --- |
-⌃Space Trigger suggestion
+| **`⌃ + Space`** | 触发建议 Trigger suggestion |
 ⇧⌘Space Trigger parameter hints
 ⇧⌥F Format document
 ⌘K ⌘F Format selection
