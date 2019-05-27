@@ -73,7 +73,7 @@
 | 快捷键 | 说明 |
 | --- | --- |
 | **`⌃ + Space`** | 触发建议 Trigger suggestion |
-⇧⌘Space Trigger parameter hints
+| **`⇧ + ⌘ + Space`** | 触发参数提示 Trigger parameter hints |
 ⇧⌥F Format document
 ⌘K ⌘F Format selection
 F12 Go to Definition
