@@ -88,7 +88,7 @@ F2 Rename Symbol
 ## Navigation
 
 ⌘T  
-⌃G 
+⌃G
 ⌘P
 ⇧⌘O
 ⇧⌘M
