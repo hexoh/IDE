@@ -75,7 +75,7 @@
 | **`⌃ + Space`** | 触发建议 Trigger suggestion |
 | **`⇧ + ⌘ + Space`** | 触发参数提示 Trigger parameter hints |
 | **`⇧ + ⌥ + F`** | 格式化文档 Format document |
-⌘K ⌘F Format selection
+| **`⌘ + K ⌘ + F`** | 格式化选择 Format selection |
 F12 Go to Definition
 ⌥F12 Peek Definition
 ⌘K F12 Open Definition to the side
