@@ -76,8 +76,8 @@
 | **`⇧ + ⌘ + Space`** | 触发参数提示 Trigger parameter hints |
 | **`⇧ + ⌥ + F`** | 格式化文档 Format document |
 | **`⌘ + K ⌘ + F`** | 格式化选择 Format selection |
-F12 Go to Definition
-⌥F12 Peek Definition
+| **`F12`** | 转到定义 Go to Definition |
+| **`⌥ + F12`** |  Peek 定义 Peek Definition |
 ⌘K F12 Open Definition to the side
 ⌘. Quick Fix
 ⇧F12 Show References
