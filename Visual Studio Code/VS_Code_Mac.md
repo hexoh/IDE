@@ -98,3 +98,25 @@
 | **`⌃ + ⇧ + Tab`** | 导航编辑器组历史记录 Navigate editor group history |
 | **`⌃ + - / ⌃ + ⇧ + -`** | 后退/前进 Go back/forward |
 | **`⌃ + ⇧ + M`** | 切换选项卡可移动焦点 Toggle Tab moves focus |
+
+## 编辑器管理 Editor management
+
+| 快捷键 | 说明 |
+| --- | --- |
+| **`⌘ + W`** | 关闭编辑器 Close editor |
+| **`⌘ + K F`** | 关闭文件夹 Close folder |
+| **`⌘ + \`** | 拆分编辑器 Split editor |
+| **`⌘1 / ⌘2 / ⌘3`** | 聚焦于第1，第2，第3编辑组 Focus into 1st, 2nd, 3rd editor group |
+⌘K ⌘← / ⌘K ⌘→ Focus into previous/next editor group
+⌘K ⇧⌘← / ⌘K ⇧⌘→ Move editor left/right
+⌘K ← / ⌘K → Move active editor group
+
+## 文件管理 File management
+
+⌘N
+⌘O
+⌘S
+⇧⌘S
+⌥⌘S
+⌘W
+⌘K ⌘W
