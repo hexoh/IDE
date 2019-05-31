@@ -78,9 +78,9 @@
 | **`⌘ + K ⌘ + F`** | 格式化选择 Format selection |
 | **`F12`** | 转到定义 Go to Definition |
 | **`⌥ + F12`** |  Peek 定义 Peek Definition |
-⌘K F12 Open Definition to the side
-⌘. Quick Fix
-⇧F12 Show References
+| **`⌘ + K F12`** | 在侧边打开定义 Open Definition to the side |
+| **`⌘ + .`** | 快速解决 Quick Fix |
+| **`⇧ + F12`** | Show References |
 F2 Rename Symbol
 ⌘K ⌘X Trim trailing whitespace
 ⌘K M Change file language
