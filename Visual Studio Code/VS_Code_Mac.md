@@ -80,10 +80,10 @@
 | **`⌥ + F12`** |  Peek 定义 Peek Definition |
 | **`⌘ + K F12`** | 在侧边打开定义 Open Definition to the side |
 | **`⌘ + .`** | 快速解决 Quick Fix |
-| **`⇧ + F12`** | Show References |
-F2 Rename Symbol
-⌘K ⌘X Trim trailing whitespace
-⌘K M Change file language
+| **`⇧ + F12`** | 显示参考文献 Show References |
+| **`F2`** |  重命名符号 Rename Symbol |
+| **`⌘ + K ⌘ + X`** | 修改末尾空格 Trim trailing whitespace |
+| **`⌘ + K M`** | 更改文件语言 Change file language |
 
 ## Navigation
 
