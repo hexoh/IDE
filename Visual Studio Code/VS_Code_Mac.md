@@ -85,14 +85,16 @@
 | **`⌘ + K ⌘ + X`** | 修改末尾空格 Trim trailing whitespace |
 | **`⌘ + K M`** | 更改文件语言 Change file language |
 
-## Navigation
+## 导航 Navigation
 
-⌘T  
-⌃G
-⌘P
-⇧⌘O
-⇧⌘M
-F8/⇧F8
-⌃⇧T ab
-⌃- / ⌃⇧-
-⌃⇧M
+| 快捷键 | 说明 |
+| --- | --- |
+| **`⌘ + T`** | 显示所有符号 Show all Symbols |
+| **`⌃ + G`** | 转到行 Go to Line... |
+| **`⌘ + P`** | 转到文件 Go to File... |
+| **`⇧ + ⌘ + O`** | 转到符号 Go to Symbol... |
+| **`⇧ + ⌘ + M`** | 显示问题面板 Show Problems panel |
+| **`F8/⇧ + F8`** | 转到下一个/上一个错误或警告 Go to next/previous error or warning |
+⌃⇧Tab Navigate editor group history
+⌃- / ⌃⇧- Go back/forward
+⌃⇧M Toggle Tab moves focus
