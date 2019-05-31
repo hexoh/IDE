@@ -95,6 +95,6 @@
 | **`⇧ + ⌘ + O`** | 转到符号 Go to Symbol... |
 | **`⇧ + ⌘ + M`** | 显示问题面板 Show Problems panel |
 | **`F8/⇧ + F8`** | 转到下一个/上一个错误或警告 Go to next/previous error or warning |
-⌃⇧Tab Navigate editor group history
-⌃- / ⌃⇧- Go back/forward
-⌃⇧M Toggle Tab moves focus
+| **`⌃ + ⇧ + Tab`** | 导航编辑器组历史记录 Navigate editor group history |
+| **`⌃ + - / ⌃ + ⇧ + -`** | 后退/前进 Go back/forward |
+| **`⌃ + ⇧ + M`** | 切换选项卡可移动焦点 Toggle Tab moves focus |
