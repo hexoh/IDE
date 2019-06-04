@@ -106,8 +106,8 @@
 | **`⌘ + W`** | 关闭编辑器 Close editor |
 | **`⌘ + K F`** | 关闭文件夹 Close folder |
 | **`⌘ + \`** | 拆分编辑器 Split editor |
-| **`⌘1 / ⌘2 / ⌘3`** | 聚焦于第1，第2，第3编辑组 Focus into 1st, 2nd, 3rd editor group |
-⌘K ⌘← / ⌘K ⌘→ Focus into previous/next editor group
+| **`⌘ + 1 / ⌘ + 2 / ⌘ + 3`** | 聚焦于第1，第2，第3编辑组 Focus into 1st, 2nd, 3rd editor group |
+| **`⌘ + K ⌘ + ← / ⌘ + K ⌘ + →`** | 聚焦于上一个/下一个编辑组 Focus into previous/next editor group |
 ⌘K ⇧⌘← / ⌘K ⇧⌘→ Move editor left/right
 ⌘K ← / ⌘K → Move active editor group
 
