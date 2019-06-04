@@ -115,10 +115,10 @@
 
 | 快捷键 | 说明 |
 | --- | --- |
-| ⌘N | 创建新文件 New File |
-⌘O Open File...
-⌘S Save
-⇧⌘S Save As...
-⌥⌘S Save All
-⌘W Close
-⌘K ⌘W Close All
+| **`⌘ + N`** | 新文件 New File |
+| **`⌘ + O`** | 打开文件... Open File... |
+| **`⌘ + S`** | 保存 Save |
+| **`⇧ + ⌘ + S`** | 另存为... Save As... |
+| **`⌥ + ⌘ + S`** | 全部保存 Save All |
+| **`⌘ + W`** | 关闭 Close |
+| **`⌘ + K ⌘ + W`** | 全部关闭 Close All |
