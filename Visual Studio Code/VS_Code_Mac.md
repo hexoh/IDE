@@ -113,10 +113,12 @@
 
 ## 文件管理 File management
 
-⌘N
-⌘O
-⌘S
-⇧⌘S
-⌥⌘S
-⌘W
-⌘K ⌘W
+| 快捷键 | 说明 |
+| --- | --- |
+⌘N New File
+⌘O Open File...
+⌘S Save
+⇧⌘S Save As...
+⌥⌘S Save All
+⌘W Close
+⌘K ⌘W Close Al
