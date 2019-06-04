@@ -108,8 +108,8 @@
 | **`⌘ + \`** | 拆分编辑器 Split editor |
 | **`⌘ + 1 / ⌘ + 2 / ⌘ + 3`** | 聚焦于第1，第2，第3编辑组 Focus into 1st, 2nd, 3rd editor group |
 | **`⌘ + K ⌘ + ← / ⌘ + K ⌘ + →`** | 聚焦于上一个/下一个编辑组 Focus into previous/next editor group |
-⌘K ⇧⌘← / ⌘K ⇧⌘→ Move editor left/right
-⌘K ← / ⌘K → Move active editor group
+| **`⌘ + K ⇧ + ⌘ + ← / ⌘ + K ⇧ + ⌘ + →`** | 向左/向右移动编辑器 Move editor left/right |
+| **`⌘ + K ← / ⌘ + K →`** | 移动活动编辑器组 Move active editor group |
 
 ## 文件管理 File management
 
