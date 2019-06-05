@@ -158,4 +158,11 @@ F10 Step over
 ⇧F5 Stop
 ⌘K ⌘I Show hover
 
-## 
+## Integrated terminal
+
+⌃` Show integrated terminal
+⌃⇧` Create new terminal
+⌘C Copy selection
+⌘↑ / ↓ Scroll up/down
+PgUp/PgDn Scroll page up/down
+⌘Home / End Scroll to top/bottom
