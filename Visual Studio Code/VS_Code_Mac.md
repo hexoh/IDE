@@ -139,3 +139,23 @@
 ⌘B Toggle Sidebar visibility
 ⇧⌘E Show Explorer / Toggle focus
 ⇧⌘F Show Search
+⌃⇧G Show Source Control
+⇧⌘D Show Debug
+⇧⌘X Show Extensions
+⇧⌘H Replace in files
+⇧⌘J Toggle Search details
+⇧⌘U Show Output panel
+⇧⌘V Open Markdown preview
+⌘K V Open Markdown preview to the side
+⌘K Z Zen Mode (Esc Esc to exit)
+
+## 调试 Debug
+
+F9 Toggle breakpoint
+F5 Start/Continue
+F11/⇧F11 Step info/out
+F10 Step over
+⇧F5 Stop
+⌘K ⌘I Show hover
+
+## 
