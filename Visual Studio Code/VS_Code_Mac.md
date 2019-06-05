@@ -122,4 +122,9 @@
 | **`⌥ + ⌘ + S`** | 全部保存 Save All |
 | **`⌘ + W`** | 关闭 Close |
 | **`⌘ + K ⌘ + W`** | 全部关闭 Close All |
-⇧⌘T  sdsd
+⇧⌘T  Reopen closed editor
+⌘K Enter Keep preview mode editor open
+⌃Tab / ⌃⇧Tab   Open next / previous
+⌘K P Copy path of active file
+⌘K R Reveal active file in Explorer
+⌘K O Show active file in new window/instance
