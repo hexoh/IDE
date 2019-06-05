@@ -122,9 +122,9 @@
 | **`⌥ + ⌘ + S`** | 全部保存 Save All |
 | **`⌘ + W`** | 关闭 Close |
 | **`⌘ + K ⌘ + W`** | 全部关闭 Close All |
-⇧⌘T  Reopen closed editor
-⌘K Enter Keep preview mode editor open
-⌃Tab / ⌃⇧Tab   Open next / previous
-⌘K P Copy path of active file
-⌘K R Reveal active file in Explorer
-⌘K O Show active file in new window/instance
+| **`⇧ + ⌘ + T`** | 重新打开关闭的编辑器 Reopen closed editor |
+| **`⌘ + K Enter`** | 保持预览模式的编辑器打开 Keep preview mode editor open |
+| **`⌃ + Tab / ⌃ + ⇧ + Tab`** | 打开下一个/上一个 Open next / previous |
+| **`⌘ + K P`** | 复制活动文件的路径 Copy path of active file |
+| **`⌘ + K R`** | 在资源管理器中显示活动文件 Reveal active file in Explorer |
+| **`⌘ + K O`** | 在新窗口/实例中显示活动文件 Show active file in new window/instance |
