@@ -128,3 +128,14 @@
 | **`⌘ + K P`** | 复制活动文件的路径 Copy path of active file |
 | **`⌘ + K R`** | 在资源管理器中显示活动文件 Reveal active file in Explorer |
 | **`⌘ + K O`** | 在新窗口/实例中显示活动文件 Show active file in new window/instance |
+
+## 显示 Display
+
+| 快捷键 | 说明 |
+| --- | --- |
+⌃⌘F Toggle full screen
+⌥⌘0 Toggle editor layout (horizontal/vertical)
+⌘= / ⇧⌘- Zoom in/out
+⌘B Toggle Sidebar visibility
+⇧⌘E Show Explorer / Toggle focus
+⇧⌘F Show Search
