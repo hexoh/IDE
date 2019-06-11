@@ -144,10 +144,10 @@
 | **`⇧ + ⌘ + X`** | 显示扩展程序 Show Extensions |
 | **`⇧ + ⌘ + H`** | 替换文件 Replace in files |
 | **`⇧ + ⌘ + J`** | 切换搜索详细信息 Toggle Search details |
-⇧⌘U Show Output panel
-⇧⌘V Open Markdown preview
-⌘K V Open Markdown preview to the side
-⌘K Z Zen Mode (Esc Esc to exit)
+| **`⇧ + ⌘ + U`** | 显示输出面板 Show Output panel |
+| **`⇧ + ⌘ + V`** | 打开Markdown预览 Open Markdown preview |
+| **`⌘ + K V`** | 打开侧面的Markdown预览 Open Markdown preview to the side |
+| **`⌘ + K Z`** | Zen模式（Esc Esc退出） Zen Mode (Esc Esc to exit) |
 
 ## 调试 Debug
 
