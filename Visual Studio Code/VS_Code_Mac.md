@@ -160,11 +160,13 @@
 | **`⇧ + F5`** | 停止 Stop |
 | **`⌘ + K ⌘ + I`** | 显示悬停 Show hover |
 
-## Integrated terminal
+## 集成终端 Integrated terminal
 
-⌃` Show integrated terminal
-⌃⇧` Create new terminal
-⌘C Copy selection
-⌘↑ / ↓ Scroll up/down
-PgUp/PgDn Scroll page up/down
-⌘Home / End Scroll to top/bottom
+| 快捷键 | 说明 |
+| --- | --- |
+| **```⌃ + ` ```** | 显示集成终端 Show integrated terminal |
+| **```⌃ + ⇧ + ` ```** | 创建新终端 Create new terminal |
+| **`⌘ + C`** | 复制选择 Copy selection |
+| **`⌘↑ / ↓`** | 向上/向下滚动 Scroll up/down |
+| **`PgUp/PgDn`** | 向上/向下滚动页面 Scroll page up/down |
+| **`⌘ + Home / End`** | 滚动到顶部/底部 Scroll to top/bottom |
