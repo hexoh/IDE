@@ -133,9 +133,9 @@
 
 | 快捷键 | 说明 |
 | --- | --- |
-⌃⌘F Toggle full screen
-⌥⌘0 Toggle editor layout (horizontal/vertical)
-⌘= / ⇧⌘- Zoom in/out
+| **`⌃ + ⌘ + F`** | 切换全屏 Toggle full screen |
+| **`⌥ + ⌘ + 0`** | 切换编辑器布局（水平/垂直） Toggle editor layout (horizontal/vertical)
+| **`⌘ + = / ⇧ + ⌘ + -`** | 放大/缩小 Zoom in/out |
 ⌘B Toggle Sidebar visibility
 ⇧⌘E Show Explorer / Toggle focus
 ⇧⌘F Show Search
