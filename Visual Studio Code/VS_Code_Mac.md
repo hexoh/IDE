@@ -136,14 +136,14 @@
 | **`⌃ + ⌘ + F`** | 切换全屏 Toggle full screen |
 | **`⌥ + ⌘ + 0`** | 切换编辑器布局（水平/垂直） Toggle editor layout (horizontal/vertical)
 | **`⌘ + = / ⇧ + ⌘ + -`** | 放大/缩小 Zoom in/out |
-⌘B Toggle Sidebar visibility
-⇧⌘E Show Explorer / Toggle focus
-⇧⌘F Show Search
-⌃⇧G Show Source Control
-⇧⌘D Show Debug
-⇧⌘X Show Extensions
-⇧⌘H Replace in files
-⇧⌘J Toggle Search details
+| **`⌘ + B`** | 切换边栏可见性 Toggle Sidebar visibility |
+| **`⇧ + ⌘ + E`** | 显示资源管理器/切换焦点 Show Explorer / Toggle focus |
+| **`⇧ + ⌘ + F`** | 显示搜索 Show Search |
+| **`⌃ + ⇧ + G`** | 显示源代码管理 Show Source Control |
+| **`⇧ + ⌘ + D`** | 显示调试 Show Debug |
+| **`⇧ + ⌘ + X`** | 显示扩展程序 Show Extensions |
+| **`⇧ + ⌘ + H`** | 替换文件 Replace in files |
+| **`⇧ + ⌘ + J`** | 切换搜索详细信息 Toggle Search details |
 ⇧⌘U Show Output panel
 ⇧⌘V Open Markdown preview
 ⌘K V Open Markdown preview to the side
