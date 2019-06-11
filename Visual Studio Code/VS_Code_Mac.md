@@ -151,12 +151,14 @@
 
 ## 调试 Debug
 
-F9 Toggle breakpoint
-F5 Start/Continue
-F11/⇧F11 Step info/out
-F10 Step over
-⇧F5 Stop
-⌘K ⌘I Show hover
+| 快捷键 | 说明 |
+| --- | --- |
+| **`F9`** | 切换断点 Toggle breakpoint |
+| **`F5`** | 开始/继续 Start/Continue |
+| **`F11/⇧ + F11`** | 步骤信息/输出 Step info/out |
+| **`F10`** | 过来 Step over |
+| **`⇧ + F5`** | 停止 Stop |
+| **`⌘ + K ⌘ + I`** | 显示悬停 Show hover |
 
 ## Integrated terminal
 
