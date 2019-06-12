@@ -12,3 +12,9 @@
 | **`Ctrl + W`** | 关闭窗口/实例 Close window/instance |
 | **`Ctrl + ,`** | 用户设置 User Settings |
 | **`Ctrl + K Ctrl + S`** | 键盘快捷键 Keyboard Shortcuts |
+
+## 基本编辑 Basic editing
+
+| 快捷键 | 说明 |
+| --- | --- |
+| Ctrl+X | Cut line (empty selection) |
