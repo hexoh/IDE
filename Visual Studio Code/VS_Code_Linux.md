@@ -17,4 +17,4 @@
 
 | 快捷键 | 说明 |
 | --- | --- |
-| Ctrl+X | Cut line (empty selection) |
+| **`Ctrl + X`** | 剪切行（空选） Cut line (empty selection) |
