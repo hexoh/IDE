@@ -20,5 +20,5 @@
 | **`Ctrl + X`** | 剪切行（空选） Cut line (empty selection) |
 | **`Ctrl + C`** | 复制行（空选定）Copy line (empty selection) |
 | **`Alt + ↑ / ↓`** | 向上/向下移动行 Move line up/down |
-| **`Shift + Alt + ↓ / ↑`** | 向上/向下复制行 Copy line up/down |
 | **`Ctrl + Shift + K`** | 删除行 Delete line |
+| **`Ctrl + Enter / Ctrl + Shift + Enter`** | 在下面/上面插入行 Insert line below/above |
