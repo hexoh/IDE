@@ -75,8 +75,8 @@
 
 | 按 Press | 功能 Function |
 | --- | --- |
-| **`Alt +单击`** | 插入光标 Insert cursor |
-| **`Ctrl + Alt +↑/↓`** | 在上/下插入光标 Insert cursor above / below |
+| **`Alt + Click`** | 插入光标 Insert cursor |
+| **`Ctrl + Alt + ↑ / ↓`** | 在上/下插入光标 Insert cursor above / below |
 | **`Ctrl + U`** | 撤消上一个光标操作 Undo last cursor operation |
 | **`Shift + Alt + I`** | 在选定的每一行的末尾插入光标 Insert cursor at end of each line selected |
 | **`Ctrl + L`** | 选择当前行 Select current line |
@@ -84,15 +84,15 @@
 | **`Ctrl + F2`** | 选择当前字的所有出现 Select all occurrences of current word |
 | **`Shift + Alt + →`** | 展开选择 Expand selection |
 | **`Shift + Alt + ←`** | 缩小选择 Shrink selection |
-| **`Shift + Alt + （拖动鼠标）`** | 列（框）选择 Column (box) selection |
-| **`Ctrl + Shift + Alt +（箭头键）`** | 列（框）选择 Column (box) selection |
+| **`Shift + Alt + （drag mouse 拖动鼠标）`** | 列（框）选择 Column (box) selection |
+| **`Ctrl + Shift + Alt +（arrow key 箭头键）`** | 列（框）选择 Column (box) selection |
 | **`Ctrl + Shift + Alt + PgUp / PgDown`** | 列（框）选择页上/下 Column (box) selection page up/down |
 
 ## 丰富的语言编辑 Rich languages editing
 
 | 按 Press | 功能 Function
 | --- | --- |
-| **`Ctrl + 空格`** | 触发建议 Trigger suggestion |
+| **`Ctrl + Space`** | 触发建议 Trigger suggestion |
 | **`Ctrl + Shift + Space`** | 触发器参数提示 Trigger parameter hints |
 | **`Shift + Alt + F`** | 格式化文档 Format document |
 | **`Ctrl + K Ctrl + F`** | 格式化选定区域 Format selection |
