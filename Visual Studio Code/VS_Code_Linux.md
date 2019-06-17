@@ -28,3 +28,11 @@
 | **`Ctrl + Home / End`** | 转到文件开头/文件末尾 Go to beginning/end of file |
 | **`Ctrl + ↑ / ↓`** | 向上/向下滚动行 Scroll line up/down |
 | **`Alt + PgUp / PgDown`** | 向上/向下滚动页面 Scroll page up/down |
+| **`Ctrl + Shift + [ / ]`** | 折叠/展开区域 Fold/Unfold region |
+| **`Ctrl + K Ctrl + [ / ]`** | 折叠/展开所有子区域 Fold/Unfold all subregions |
+| **`Ctrl + K Ctrl + 0 / Ctrl + K Ctrl + J`** | 折叠/展开所有区域 Fold/Unfold all regions |
+| **`Ctrl + K Ctrl + C`** | 添加行注释 Add line comment |
+| **`Ctrl + K Ctrl + U`** | 删除行注释 Remove line comment |
+| **`Ctrl + /`** | 切换行注释 Toggle line comment |
+| **`Shift + Alt + A`** | 切换块注释 Toggle block comment |
+| **`Alt + Z`** | 切换换行 Toggle word wrap |
