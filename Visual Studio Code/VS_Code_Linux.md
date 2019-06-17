@@ -22,3 +22,8 @@
 | **`Alt + ↑ / ↓`** | 向上/向下移动行 Move line up/down |
 | **`Ctrl + Shift + K`** | 删除行 Delete line |
 | **`Ctrl + Enter / Ctrl + Shift + Enter`** | 在下面/上面插入行 Insert line below/above |
+| **`Ctrl + Shift + \`** | 跳到匹配的括号 Jump to matching bracket |
+| **`Ctrl + ] / Ctrl + [`** | 缩进/反缩进行 Indent/outdent line |
+| **`Home / End`** | 转到行首/行尾 Go to beginning/end of line |
+| **`Ctrl + Home / End`** | 转到文件开头/文件末尾 Go to beginning/end of file |
+| **`Ctrl + ↑ / ↓`** | 向上/向下滚动行 Scroll line up/down |
