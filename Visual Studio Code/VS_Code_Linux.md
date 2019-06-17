@@ -27,3 +27,4 @@
 | **`Home / End`** | 转到行首/行尾 Go to beginning/end of line |
 | **`Ctrl + Home / End`** | 转到文件开头/文件末尾 Go to beginning/end of file |
 | **`Ctrl + ↑ / ↓`** | 向上/向下滚动行 Scroll line up/down |
+| **`Alt + PgUp / PgDown`** | 向上/向下滚动页面 Scroll page up/down |
