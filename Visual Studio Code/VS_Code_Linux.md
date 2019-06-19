@@ -45,3 +45,5 @@
 | **`Ctrl + Shift + Space`** | 触发器参数提示 Trigger parameter hints |
 | **`Shift + Alt + I`** | 格式化文档 Format document |
 | **`Ctrl + K Ctrl + F`** | 格式化选定区域 Format selection |
+| **`F12`** | 转到定义 Go to Definition |
+
