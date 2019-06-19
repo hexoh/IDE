@@ -46,4 +46,4 @@
 | **`Shift + Alt + I`** | 格式化文档 Format document |
 | **`Ctrl + K Ctrl + F`** | 格式化选定区域 Format selection |
 | **`F12`** | 转到定义 Go to Definition |
-
+| **`Ctrl + Shift + F10`** | Peek定义 Peek Definition |
