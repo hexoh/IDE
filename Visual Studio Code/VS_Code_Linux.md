@@ -36,3 +36,5 @@
 | **`Ctrl + /`** | 切换行注释 Toggle line comment |
 | **`Shift + Alt + A`** | 切换块注释 Toggle block comment |
 | **`Alt + Z`** | 切换换行 Toggle word wrap |
+
+## 丰富的语言编辑 Rich languages editing
