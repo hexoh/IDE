@@ -38,3 +38,8 @@
 | **`Alt + Z`** | 切换换行 Toggle word wrap |
 
 ## 丰富的语言编辑 Rich languages editing
+
+| 按 Press | 功能 Function
+| --- | --- |
+| **`Ctrl + Space`** | 触发建议 Trigger suggestion |
+| **`Ctrl + Shift + Space`** | 触发器参数提示 Trigger parameter hints |
