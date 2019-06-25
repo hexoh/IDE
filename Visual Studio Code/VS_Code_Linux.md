@@ -48,3 +48,4 @@
 | **`F12`** | 转到定义 Go to Definition |
 | **`Ctrl + Shift + F10`** | Peek定义 Peek Definition |
 | **`Ctrl + K F12`** | 打开定义到边 Open Definition to the side |
+| **`Ctrl + .`** | 快速解决 Quick Fix |
