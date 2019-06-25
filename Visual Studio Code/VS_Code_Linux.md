@@ -49,3 +49,7 @@
 | **`Ctrl + Shift + F10`** | Peek定义 Peek Definition |
 | **`Ctrl + K F12`** | 打开定义到边 Open Definition to the side |
 | **`Ctrl + .`** | 快速解决 Quick Fix |
+| **`Shift + F12`** | 显示引用 Show References |
+| **`F2`** | 重命名符号 Rename Symbol |
+| **`Ctrl + K Ctrl + X`** | 修剪尾随空格 Trim trailing whitespace |
+| **`Ctrl + K M`** | 更改文件语言 Change file language |
