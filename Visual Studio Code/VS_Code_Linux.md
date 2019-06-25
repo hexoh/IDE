@@ -34,7 +34,7 @@
 | **`Ctrl + K Ctrl + C`** | 添加行注释 Add line comment |
 | **`Ctrl + K Ctrl + U`** | 删除行注释 Remove line comment |
 | **`Ctrl + /`** | 切换行注释 Toggle line comment |
-| **`Shift + Alt + A`** | 切换块注释 Toggle block comment |
+| **`Ctrl + Shift + A`** | 切换块注释 Toggle block comment |
 | **`Alt + Z`** | 切换换行 Toggle word wrap |
 
 ## 丰富的语言编辑 Rich languages editing
@@ -43,7 +43,7 @@
 | --- | --- |
 | **`Ctrl + Space`** | 触发建议 Trigger suggestion |
 | **`Ctrl + Shift + Space`** | 触发器参数提示 Trigger parameter hints |
-| **`Shift + Alt + I`** | 格式化文档 Format document |
+| **`Ctrl + Shift + I`** | 格式化文档 Format document |
 | **`Ctrl + K Ctrl + F`** | 格式化选定区域 Format selection |
 | **`F12`** | 转到定义 Go to Definition |
 | **`Ctrl + Shift + F10`** | Peek定义 Peek Definition |
@@ -55,3 +55,7 @@
 | **`Ctrl + K M`** | 更改文件语言 Change file language |
 
 ## 多光标和选择 Multi-cursor and selection
+
+| 按 Press | 功能 Function |
+| --- | --- |
+| **`Alt + Click`** | 插入光标 Insert cursor |
