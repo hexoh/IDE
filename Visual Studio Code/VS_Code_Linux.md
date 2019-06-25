@@ -53,3 +53,5 @@
 | **`F2`** | 重命名符号 Rename Symbol |
 | **`Ctrl + K Ctrl + X`** | 修剪尾随空格 Trim trailing whitespace |
 | **`Ctrl + K M`** | 更改文件语言 Change file language |
+
+## 多光标和选择 Multi-cursor and selection
