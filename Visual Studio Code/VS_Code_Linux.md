@@ -59,3 +59,11 @@
 | 按 Press | 功能 Function |
 | --- | --- |
 | **`Alt + Click`** | 插入光标 Insert cursor |
+| **`Shift + Alt + ↑ / ↓`** | 在上/下插入光标 Insert cursor above / below |
+| **`Ctrl + U`** | 撤消上一个光标操作 Undo last cursor operation |
+| **`Shift + Alt + I`** | 在选定的每一行的末尾插入光标 Insert cursor at end of each line selected |
+| **`Ctrl + L`** | 选择当前行 Select current line |
+| **`Ctrl + Shift + L`** | 选择当前选择的所有出现 Select all occurrences of current selection |
+| **`Ctrl + F2`** | 选择当前字的所有出现 Select all occurrences of current word |
+| **`Shift + Alt + →`** | 展开选择 Expand selection |
+| **`Shift + Alt + ←`** | 缩小选择 Shrink selection |
