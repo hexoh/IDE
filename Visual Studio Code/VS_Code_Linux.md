@@ -67,3 +67,4 @@
 | **`Ctrl + F2`** | 选择当前字的所有出现 Select all occurrences of current word |
 | **`Shift + Alt + →`** | 展开选择 Expand selection |
 | **`Shift + Alt + ←`** | 缩小选择 Shrink selection |
+| **`Shift + Alt +（drag mouse 拖动鼠标）`** | 列（框）选择 Column (box) selection |
