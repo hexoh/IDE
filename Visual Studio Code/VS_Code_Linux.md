@@ -127,6 +127,7 @@
 | **`Ctrl + 1 / 2 / 3`** | 切换到第 1，第 2 或第 3 编辑器组 Focus into 1st, 2nd or 3rd editor group |
 | **`Ctrl + K Ctrl + ←`** | 切换到上一个编辑器组 Focus into previous editor group |
 | **`Ctrl + K Ctrl + →`** | 切换到下一个编辑器组 Focus into next editor group |
-| **`Ctrl + Shift + PgUp`** | 向左/向右移动编辑器 Move editor left/right |
-| **`Ctrl + Shift + PgDown`** | 向左/向右移动编辑器 Move editor left/right |
-| **`Ctrl + K ← / →`** | 移动活动编辑器组 Move active editor group |
+| **`Ctrl + Shift + PgUp`** | 向左移动编辑器 Move editor left |
+| **`Ctrl + Shift + PgDown`** | 向右移动编辑器 Move editor right |
+| **`Ctrl + K ←`** | 向左/向上移动活动编辑器组 Move active editor group left/up |
+| **`Ctrl + K →`** | 向右/向下移动活动编辑器组 Move active editor group right/down |
