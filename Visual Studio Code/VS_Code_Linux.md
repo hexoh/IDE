@@ -131,3 +131,12 @@
 | **`Ctrl + Shift + PgDown`** | 向右移动编辑器 Move editor right |
 | **`Ctrl + K ←`** | 向左/向上移动活动编辑器组 Move active editor group left/up |
 | **`Ctrl + K →`** | 向右/向下移动活动编辑器组 Move active editor group right/down |
+
+## 文件管理 File management
+
+| 按 Press | 功能 Function |
+| --- | --- |
+| **`Ctrl + N`** | 新文件 New File |
+| **`Ctrl + O`** | 打开文件... Open File... |
+| **`Ctrl + S`** | 保存 Save |
+| **`Ctrl + Shift + S`** | 另存为... Save As... |
