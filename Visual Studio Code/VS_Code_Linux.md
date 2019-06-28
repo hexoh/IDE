@@ -116,3 +116,17 @@
 | **`Ctrl + Alt + -`** | 返回 Go back |
 | **`Ctrl + Shift + -`** | 前进 Go forward |
 | **`Ctrl + M`** | 切换选项卡移动焦点 Toggle Tab moves focus |
+
+## 编辑器管理 Editor management
+
+| 按 Press | 功能 Function |
+| --- | --- |
+| **`Ctrl + W`** | 关闭编辑器 Close editor |
+| **`Ctrl + K F`** | 关闭文件夹 Close folder |
+| **`Ctrl + \`** | 拆分编辑器 Split editor |
+| **`Ctrl + 1 / 2 / 3`** | 切换到第 1，第 2 或第 3 编辑器组 Focus into 1st, 2nd or 3rd editor group |
+| **`Ctrl + K Ctrl + ←`** | 切换到上一个编辑器组 Focus into previous editor group |
+| **`Ctrl + K Ctrl + →`** | 切换到下一个编辑器组 Focus into next editor group |
+| **`Ctrl + Shift + PgUp`** | 向左/向右移动编辑器 Move editor left/right |
+| **`Ctrl + Shift + PgDown`** | 向左/向右移动编辑器 Move editor left/right |
+| **`Ctrl + K ← / →`** | 移动活动编辑器组 Move active editor group |
