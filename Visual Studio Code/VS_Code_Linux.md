@@ -75,3 +75,17 @@
 | --- | --- |
 | **`F11`** | 切换全屏 Toggle full screen |
 | **`Shift + Alt + 0`** | 切换编辑器布局 Toggle editor layout |
+| **`Ctrl + = / -`** | 放大/缩小 Zoom in/out |
+| **`Ctrl + B`** | 切换侧栏可见性 Toggle Sidebar visibility |
+| **`Ctrl + Shift + E`** | 显示浏览器/切换焦点 Show Explorer / Toggle focus |
+| **`Ctrl + Shift + F`** | 显示搜索 Show Search |
+| **`Ctrl + Shift + G`** | 显示 Git Show Git |
+| **`Ctrl + Shift + D`** | 显示调试 Show Debug |
+| **`Ctrl + Shift + X`** | 显示扩展 Show Extensions |
+| **`Ctrl + Shift + H`** | 替换文件 Replace in files |
+| **`Ctrl + Shift + J`** | 切换搜索详细信息 Toggle Search details |
+| **`Ctrl + Shift + C`** | 打开新命令提示符/终端 Open new command prompt/terminal |
+| **`Ctrl + K Ctrl + H`** | 显示输出面板 Show Output panel |
+| **`Ctrl + Shift + V`** | 切换 Markdown 预览 Toggle Markdown preview |
+| **`Ctrl + K V`** | 从旁边打开 Markdown 预览 Open Markdown preview to the side |
+| **`Ctrl + K Z`** | 打开禅模式（ Esc 键退出） Zen Mode (Esc Esc to ecit) |
