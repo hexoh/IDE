@@ -89,3 +89,14 @@
 | **`Ctrl + Shift + V`** | 切换 Markdown 预览 Toggle Markdown preview |
 | **`Ctrl + K V`** | 从旁边打开 Markdown 预览 Open Markdown preview to the side |
 | **`Ctrl + K Z`** | 打开禅模式（ Esc 键退出） Zen Mode (Esc Esc to ecit) |
+
+## 搜索和替换 Search and replace
+
+| 按 Press | 功能 Function |
+| --- | --- |
+| **`Ctrl + F`** | 查找 Find |
+| **`Ctrl + H`** | 替换 Replace |
+| **`F3 / Shift + F3`** | 查找下一个/上一个 Find next/previous |
+| **`Alt + Enter`** | 选择查找匹配的所有出现 Select all occurences of Find match |
+| **`Ctrl + D`** | 将选择添加到下一个查找匹配 Add selection to next Find match |
+| **`Ctrl + K Ctrl + D`** | 将最后一个选择移至下一个查找匹配项 Move last selection to next Find match |
