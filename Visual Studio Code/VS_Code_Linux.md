@@ -68,3 +68,10 @@
 | **`Shift + Alt + →`** | 展开选择 Expand selection |
 | **`Shift + Alt + ←`** | 缩小选择 Shrink selection |
 | **`Shift + Alt +（drag mouse 拖动鼠标）`** | 列（框）选择 Column (box) selection |
+
+## 显示 Display
+
+| 按 Press | 功能 Function |
+| --- | --- |
+| **`F11`** | 切换全屏 Toggle full screen |
+| **`Shift + Alt + 0`** | 切换编辑器布局 Toggle editor layout |
