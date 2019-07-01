@@ -174,8 +174,8 @@
 | --- | --- |
 | **```Ctrl + ` ```** | 显示集成终端 Show integrated terminal |
 | **```Ctrl + Shift + ` ```** | 创建新终端 Create new terminal |
-| **`Ctrl + C`** | 复制选定 Copy selection |
-| **`Ctrl + V`** | 粘贴到活动端子 Paste into active terminal |
-| **`Ctrl + ↑ / ↓`** | 向上/向下滚动 Scroll up/down |
+| **`Ctrl + Shift + C`** | 复制选定 Copy selection |
+| **`Ctrl + Shift + V`** | 粘贴到活动端子 Paste into active terminal |
+| **`Ctrl + Shift + ↑ / ↓`** | 向上/向下滚动 Scroll up/down |
 | **`Shift + PgUp / PgDown`** | 向上/向下滚动页面 Scroll page up/down |
-| **`Ctrl + Home / End`** | 滚动到顶部/底部 Scroll to top/bottom |
+| **`Shift + Home / End`** | 滚动到顶部/底部 Scroll to top/bottom |
