@@ -149,3 +149,14 @@
 | **`Ctrl + K P`** | 复制活动文件的路径 Copy path of active file |
 | **`Ctrl + K R`** | 显示资源管理器中的活动文件 Reveal active file in Explorer |
 | **`Ctrl + K O`** | 显示新窗口/实例中的活动文件 Show active file in new window/instance |
+
+## 调试 Debug
+
+| 按 Press | 功能 Function|
+| --- | --- |
+| **`F9`** | 切换断点 Toggle breakpoint|
+| **`F5`** | 开始/继续 Start/Continue|
+| **`F11 / Shift + F11`** | 下一步/上一步 Step into/out|
+| **`F10`** | 跳过 Step over|
+| **`Shift + F5`** | 停止 Stop|
+| **`Ctrl + K Ctrl + I`** | 显示悬停 Show hover|
