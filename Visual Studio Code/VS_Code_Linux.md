@@ -140,3 +140,6 @@
 | **`Ctrl + O`** | 打开文件... Open File... |
 | **`Ctrl + S`** | 保存 Save |
 | **`Ctrl + Shift + S`** | 另存为... Save As... |
+| **`Ctrl + W`** | 关闭 Close |
+| **`Ctrl + K Ctrl + W`** | 关闭所有 Close All |
+| **`Ctrl + Shift + T`** | 重新打开关闭的编辑器 Reopen closed editor |
