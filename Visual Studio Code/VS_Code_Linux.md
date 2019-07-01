@@ -143,3 +143,9 @@
 | **`Ctrl + W`** | 关闭 Close |
 | **`Ctrl + K Ctrl + W`** | 关闭所有 Close All |
 | **`Ctrl + Shift + T`** | 重新打开关闭的编辑器 Reopen closed editor |
+| **`Ctrl + K Enter`** | 输入保持打开 Enter Keep Open |
+| **`Ctrl + Tab`** | 打开下一个 Open next |
+| **`Ctrl + Shift + Tab`** | 打开上一个 Open previous |
+| **`Ctrl + K P`** | 复制活动文件的路径 Copy path of active file |
+| **`Ctrl + K R`** | 显示资源管理器中的活动文件 Reveal active file in Explorer |
+| **`Ctrl + K O`** | 显示新窗口/实例中的活动文件 Show active file in new window/instance |
