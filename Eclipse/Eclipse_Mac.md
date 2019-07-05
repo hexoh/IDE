@@ -6,3 +6,4 @@
 | --- | --- |
 | **`⌘ + F12`** | 激活编辑器 Activate Editor |
 | **`⌘ + F9`** | 激活任务 Activate Task |
+|||
