@@ -11,3 +11,4 @@
 |⇧+⌘+N|All Instances|
 |⌥+⌘+←|Backward History|
 |⌘+B|Build All|
+|⌥+⌘+C|Change Method Signature|
