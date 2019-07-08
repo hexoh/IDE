@@ -8,4 +8,5 @@
 | **`⌘ + F9`** | 激活任务 Activate Task |
 |⌥+⇧+⌘+A|Add Artifact to Target Platform|
 |⌥+⌘+J|Add Javadoc Comment|
-|||
+|⇧+⌘+N|All Instances|
+||
