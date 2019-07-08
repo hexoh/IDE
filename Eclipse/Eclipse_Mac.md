@@ -10,4 +10,4 @@
 |⌥+⌘+J|Add Javadoc Comment|
 |⇧+⌘+N|All Instances|
 |⌥+⌘+←|Backward History|
-|||
+|⌘+B|Build All|
