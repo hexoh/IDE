@@ -9,4 +9,4 @@
 |⌥+⇧+⌘+A|Add Artifact to Target Platform|
 |⌥+⌘+J|Add Javadoc Comment|
 |⇧+⌘+N|All Instances|
-|||
+|⌥+⌘+←|Backward History|
