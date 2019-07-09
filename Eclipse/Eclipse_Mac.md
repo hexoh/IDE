@@ -13,4 +13,4 @@
 |⌘+B|Build All|
 |⌥+⌘+C|Change Method Signature|
 |⌘+W|Close|
-|||
+|⇧+⌘+W|Close All|
