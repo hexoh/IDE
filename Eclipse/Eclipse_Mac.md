@@ -16,3 +16,5 @@
 |⇧+⌘+W|Close All|
 |⇧+⌘+Numpad_Divide|Collapse All|
 |⌥+⌘+3|Commit...|
+|⌥+/|Content Assist|
+|⌥+⇧+?|Context Information|
