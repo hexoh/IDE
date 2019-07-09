@@ -14,4 +14,4 @@
 |⌥+⌘+C|Change Method Signature|
 |⌘+W|Close|
 |⇧+⌘+W|Close All|
-||Collapse All|
+|⇧+⌘+Numpad_Divide|Collapse All|
