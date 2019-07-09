@@ -15,3 +15,4 @@
 |⌘+W|Close|
 |⇧+⌘+W|Close All|
 |⇧+⌘+Numpad_Divide|Collapse All|
+|⌥+⌘+3|Commit...|
