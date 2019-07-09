@@ -12,4 +12,4 @@
 |⌥+⌘+←|Backward History|
 |⌘+B|Build All|
 |⌥+⌘+C|Change Method Signature|
-|||
+|⌘+W||
