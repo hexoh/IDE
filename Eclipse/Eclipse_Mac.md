@@ -18,3 +18,5 @@
 |⌥+⌘+3|Commit...|
 |⌥+/|Content Assist|
 |⌥+⇧+?|Context Information|
+|⌘+C|Copy|
+|⌃ + ⇧ +F11|Coverage|
