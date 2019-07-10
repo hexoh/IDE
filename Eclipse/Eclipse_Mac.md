@@ -20,8 +20,8 @@
 |⌥+⇧+?|Context Information|
 |⌘+C|Copy|
 |⌃ + ⇧ +F11|Coverage|
-|⌥+⇧+E E||
-|⌥+⇧+E E||
+|⌥+⇧+E E|Coverage Eclipse Application|
+|⌥+⇧+E E|Coverage Junit Plug-in Test|
 |⌥+⇧+E E||
 |⌥+⇧+E E||
 |⌥+⇧+E E||
