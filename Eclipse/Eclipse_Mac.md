@@ -20,3 +20,4 @@
 |⌥+⇧+?|Context Information|
 |⌘+C|Copy|
 |⌃ + ⇧ +F11|Coverage|
+|⌥+⇧+E E||
