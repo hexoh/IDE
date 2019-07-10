@@ -21,11 +21,11 @@
 |⌘+C|Copy|
 |⌃ + ⇧ +F11|Coverage|
 |⌥+⇧+E E|Coverage Eclipse Application|
-|⌥+⇧+E E|Coverage Junit Plug-in Test|
-|⌥+⇧+E E||
-|⌥+⇧+E E||
-|⌥+⇧+E E||
-|⌥+⇧+E E||
+|⌥+⇧+E p|Coverage Junit Plug-in Test|
+|⌥+⇧+E T|Coverage Junit Test|
+|⌥+⇧+E J|Coverage Java Application|
+|⌥+⇧+E R|Coverage RAP Junit Test|
+|⌥+⇧+E S|Coverage SWTBot Test|
 |⌥+⇧+E E||
 |⌥+⇧+E E||
 |⌥+⇧+E E||
