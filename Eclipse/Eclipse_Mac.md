@@ -43,3 +43,4 @@
 |⌥+⇧+D R|Debug on Server|
 |⌘+G|Declaration in Workspace|
 |⌦|Delete|
+|⇧+⌘+D|Display|
