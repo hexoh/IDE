@@ -40,3 +40,4 @@
 |⌃+⌥+⌘+D J|Debug Java Application|
 |⌃+⌥+⌘+D O|Debug OSGi Framework|
 |⌥+⌘+D X|Debug XSLT Transformation|
+|⌥+⇧+D R|Debug on Server|
