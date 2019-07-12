@@ -38,4 +38,4 @@
 |⌃+⌥+⌘+D T|Debug Junit Test|
 |⌃+⌥+⌘+D A|Debug Java Applet|
 |⌃+⌥+⌘+D J|Debug Java Application|
-|⌃+⌥+⌘+D O|Debug Eclipse Application|
+|⌃+⌥+⌘+D O|Debug OSGi Framework|
