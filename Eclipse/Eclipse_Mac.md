@@ -34,3 +34,8 @@
 |⌘+F11|Debug|
 |⌃+⌥+⌘+D Q|Debug Ant Build|
 |⌃+⌥+⌘+D E|Debug Eclipse Application|
+|⌃+⌥+⌘+D P|Debug Eclipse Application|
+|⌃+⌥+⌘+D T|Debug Eclipse Application|
+|⌃+⌥+⌘+D A|Debug Eclipse Application|
+|⌃+⌥+⌘+D J|Debug Eclipse Application|
+|⌃+⌥+⌘+D O|Debug Eclipse Application|
