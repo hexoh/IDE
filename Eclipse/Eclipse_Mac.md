@@ -41,3 +41,5 @@
 |⌃+⌥+⌘+D O|Debug OSGi Framework|
 |⌥+⌘+D X|Debug XSLT Transformation|
 |⌥+⇧+D R|Debug on Server|
+|⌘+G|Declaration in Workspace|
+|⌦|Delete|
