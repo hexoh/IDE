@@ -44,3 +44,4 @@
 |⌘+G|Declaration in Workspace|
 |⌦|Delete|
 |⇧+⌘+D|Display|
+|⌘+U|Execute|
