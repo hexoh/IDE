@@ -45,3 +45,5 @@
 |⌦|Delete|
 |⇧+⌘+D|Display|
 |⌘+U|Execute|
+|⇧+⌘+Numpad_Multiplay|Expand All|
+|||
