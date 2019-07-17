@@ -52,3 +52,5 @@
 |⌘+F|Find and Replace|
 |⌥+⇧+H|Focus on Active Task|
 |⌥+⌘+F|Force Return|
+|⌥+⌘+→|Forward History|
+|⌥+⇧+G|Find Text in Workspace|
