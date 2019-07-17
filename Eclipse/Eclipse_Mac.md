@@ -47,3 +47,4 @@
 |⌘+U|Execute|
 |⇧+⌘+Numpad_Multiplay|Expand All|
 |⌥+⌘+L|Extract Local Variable|
+|⌥+⌘+M|Extract Local Variable|
