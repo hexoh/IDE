@@ -56,3 +56,4 @@
 |⌥+⇧+G|Generate Code|
 |`⌥+⌘+|`|Inline|
 |`⇧+⌘+|`|Inspect|
+|^Q|Last Edit Location|
