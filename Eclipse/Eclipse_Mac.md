@@ -54,4 +54,5 @@
 |⌥+⌘+F|Force Return|
 |⌥+⌘+→|Forward History|
 |⌥+⇧+G|Generate Code|
-|⌥+⌘+||Inline|
+|`⌥+⌘+|`|Inline|
+|`⇧+⌘+|`|Inspe|
