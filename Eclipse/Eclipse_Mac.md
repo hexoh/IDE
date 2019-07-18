@@ -53,4 +53,4 @@
 |⌥+⇧+H|Focus on Active Task|
 |⌥+⌘+F|Force Return|
 |⌥+⌘+→|Forward History|
-|⌥+⇧+G|Find Text in Workspace|
+|⌥+⇧+G|Gs|
