@@ -55,4 +55,4 @@
 |⌥+⌘+→|Forward History|
 |⌥+⇧+G|Generate Code|
 |`⌥+⌘+|`|Inline|
-|`⇧+⌘+|`|Inspe|
+|`⇧+⌘+|`|Inspect|
