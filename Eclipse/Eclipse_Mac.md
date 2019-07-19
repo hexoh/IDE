@@ -58,3 +58,4 @@
 |`⇧+⌘+|`|Inspect|
 |^Q|Last Edit Location|
 |⌥+⇧+⌘+F9|Layout Spy|
+|||
