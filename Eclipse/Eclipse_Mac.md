@@ -62,4 +62,5 @@
 |⌥+⇧+⌘+↓|Make Less Interesting|
 |⌃M|Maximize Active View or Editor|
 |⌥+⌘+V|Move - Refactoring|
-|||
+|⌘+N|New|
+|⌥+⌘+N|New menu|
