@@ -69,3 +69,5 @@
 |⌥+F7|Next Page|
 |⌘+F8|Next Perspective|
 |⌥+⇟|Next Sub-Tab|
+|^+⇟|Next Tab|
+|⌘+F7|Next View|
