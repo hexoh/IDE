@@ -64,3 +64,5 @@
 |⌥+⌘+V|Move - Refactoring|
 |⌘+N|New|
 |⌥+⌘+N|New menu|
+|⌘+.|Next|
+|||
