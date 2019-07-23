@@ -65,4 +65,4 @@
 |⌘+N|New|
 |⌥+⌘+N|New menu|
 |⌘+.|Next|
-|||
+|⌘+F6|Next Editor|
