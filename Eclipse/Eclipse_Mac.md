@@ -66,3 +66,4 @@
 |⌥+⌘+N|New menu|
 |⌘+.|Next|
 |⌘+F6|Next Editor|
+|⌥+F7|Next Page|
