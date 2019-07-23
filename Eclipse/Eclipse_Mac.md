@@ -67,3 +67,4 @@
 |⌘+.|Next|
 |⌘+F6|Next Editor|
 |⌥+F7|Next Page|
+|⌘+F8|Next Perspective|
