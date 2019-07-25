@@ -73,3 +73,4 @@
 |⌘+F7|Next View|
 |⇧+F2|Open Attached Javadoc|
 |||
+|||
