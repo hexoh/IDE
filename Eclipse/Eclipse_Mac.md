@@ -76,4 +76,5 @@
 |F3|Open Declaration|
 |^+⌥+⇧+T|Open Local Terminal on Selection|
 |⌥+⇧+⌘+M|Open Manifest|
-|||
+|⌥+⇧+P|Open Maven POM|
+|⇧+⌘+A|Open Plug-in Artifact|
