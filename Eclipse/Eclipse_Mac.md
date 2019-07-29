@@ -72,7 +72,7 @@
 |^+⇟|Next Tab|
 |⌘+F7|Next View|
 |⇧+F2|Open Attached Javadoc|
-|||
-|||
-|||
-|||
+|^+⌥+H|Open Call Hierarchy|
+|F3|Open Declaration|
+|^+⌥+⇧+T|Open Local Terminal on Selection|
+|⌥+⇧+⌘+M|Open Manifest|
