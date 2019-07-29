@@ -76,3 +76,4 @@
 |F3|Open Declaration|
 |^+⌥+⇧+T|Open Local Terminal on Selection|
 |⌥+⇧+⌘+M|Open Manifest|
+|||
