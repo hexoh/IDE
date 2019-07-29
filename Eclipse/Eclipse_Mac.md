@@ -78,3 +78,5 @@
 |⌥+⇧+⌘+M|Open Manifest|
 |⌥+⇧+P|Open Maven POM|
 |⇧+⌘+A|Open Plug-in Artifact|
+|⌥+⇧+⌘+F12|Open Remote Task|
+|⇧+⌘+R|Open Resource|
