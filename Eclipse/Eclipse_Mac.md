@@ -80,3 +80,5 @@
 |⇧+⌘+A|Open Plug-in Artifact|
 |⌥+⇧+⌘+F12|Open Remote Task|
 |⇧+⌘+R|Open Resource|
+|^+H|Open Search Dialog|
+|||
