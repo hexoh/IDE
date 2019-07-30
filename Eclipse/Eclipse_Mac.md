@@ -84,3 +84,4 @@
 |⌥+⌘+F12|Open Task|
 |⇧+⌘+T|Open Type|
 |F4|Open Type Hierarchy|
+|⇧+⌘+H|Open Type in Hierarchy|
