@@ -81,4 +81,6 @@
 |⌥+⇧+⌘+F12|Open Remote Task|
 |⇧+⌘+R|Open Resource|
 |^+H|Open Search Dialog|
-|||
+|⌥+⌘+F12|Open Task|
+|⇧+⌘+T|Open Type|
+|F4|Open Type Hierarchy|
