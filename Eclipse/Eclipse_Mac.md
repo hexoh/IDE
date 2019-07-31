@@ -85,3 +85,4 @@
 |⇧+⌘+T|Open Type|
 |F4|Open Type Hierarchy|
 |⇧+⌘+H|Open Type in Hierarchy|
+|⇧+⌘+V|Open from Clipboard|
