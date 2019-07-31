@@ -87,3 +87,4 @@
 |⇧+⌘+H|Open Type in Hierarchy|
 |⇧+⌘+V|Open from Clipboard|
 |⇧+⌘+O|Organize Imports|
+|⌘+V|Paste|
