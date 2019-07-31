@@ -88,3 +88,8 @@
 |⇧+⌘+V|Open from Clipboard|
 |⇧+⌘+O|Organize Imports|
 |⌘+V|Paste|
+|⌥+⇧+F2|Plug-in Menu Spy|
+|⌥+⇧+F1|Plug-in Selection Spy|
+|⇧+⌘+.|Previous|
+|⇧+⌘+F6|Previous Editor|
+|⌥+⌘+F7|Previous Page|
