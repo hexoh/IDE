@@ -95,3 +95,4 @@
 |⌥+⌘+F7|Previous Page|
 |⇧+⌘+F8|Previous Perspective|
 |||
+|||
