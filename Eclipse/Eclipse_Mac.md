@@ -94,4 +94,3 @@
 |⇧+⌘+F6|Previous Editor|
 |⌥+⌘+F7|Previous Page|
 |⇧+⌘+F8|Previous Perspective|
-|||
