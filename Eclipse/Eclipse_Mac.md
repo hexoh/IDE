@@ -97,3 +97,4 @@
 |⌥+⇞|Previous Sub-Tab|
 |^+⇞|Previous Tab|
 |⇧+⌘+F7|Previous View|
+|⌘+P|Print|
