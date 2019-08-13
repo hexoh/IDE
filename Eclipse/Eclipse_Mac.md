@@ -94,4 +94,5 @@
 |⇧+⌘+F6|Previous Editor|
 |⌥+⌘+F7|Previous Page|
 |⇧+⌘+F8|Previous Perspective|
-|||
+|⌥+⇞|Previous Sub-Tab|
+|^+⇞|Previous Tab|
