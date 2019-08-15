@@ -98,3 +98,7 @@
 |^+⇞|Previous Tab|
 |⇧+⌘+F7|Previous View|
 |⌘+P|Print|
+|⌥+↩|Properties|
+|⌘+3|Quick Access|
+|⌘+1|Quick Fix|
+|⇧+⌘+L|Quick Search Command|
