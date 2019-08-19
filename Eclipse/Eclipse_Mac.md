@@ -102,4 +102,3 @@
 |⌘+3|Quick Access|
 |⌘+1|Quick Fix|
 |⇧+⌘+L|Quick Search Command|
-|||
