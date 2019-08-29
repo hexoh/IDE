@@ -109,3 +109,4 @@
 |⇧+⌦|Remove All Visible Results|
 |⌘+⌦|Remove Result|
 |F2|Rename|
+|⌥+⌘+R|Rename - Refactoring|
