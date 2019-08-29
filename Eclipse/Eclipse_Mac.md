@@ -110,3 +110,4 @@
 |⌘+⌦|Remove Result|
 |F2|Rename|
 |⌥+⌘+R|Rename - Refactoring|
+|⇧+⌘+F11|Run|
