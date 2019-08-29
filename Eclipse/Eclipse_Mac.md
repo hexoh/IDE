@@ -102,4 +102,7 @@
 |⌘+3|Quick Access|
 |⌘+1|Quick Fix|
 |⇧+⌘+L|Quick Search Command|
-|||
+|⌘+E|Quick Switch Editor|
+|⇧+⌘+Z|Redo|
+|⇧+⌘+G|References in Workspace|
+|F5|Refresh|
