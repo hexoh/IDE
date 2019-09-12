@@ -119,3 +119,4 @@
 |⌥+⌘+X A|Run Java Applet|
 |⌥+⌘+X J|Run Java Application|
 |⌥+⇧+X M|Run Maven Build|
+|||
