@@ -124,3 +124,4 @@
 |⌥+⌘+X X|Run XSLT Transformation|
 |⌥+⇧+X R|Run on Server|
 |⌘+S|Save|
+|⇧+⌘+S|Save All|
