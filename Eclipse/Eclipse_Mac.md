@@ -123,4 +123,4 @@
 |⌥+⇧+X B|Run Spring Boot App|
 |⌥+⌘+X X|Run XSLT Transformation|
 |⌥+⇧+X R|Run on Server|
-|||
+|⌘+S|Sa|
