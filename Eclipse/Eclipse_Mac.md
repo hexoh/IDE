@@ -120,3 +120,7 @@
 |⌥+⌘+X J|Run Java Application|
 |⌥+⇧+X M|Run Maven Build|
 |⌥+⌘+X O|Run OSGi Framework|
+|⌥+⇧+X B|Run Spring Boot App|
+|⌥+⌘+X X|Run XSLT Transformation|
+|⌥+⇧+X R|Run on Server|
+|||
