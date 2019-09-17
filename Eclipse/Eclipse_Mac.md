@@ -125,3 +125,5 @@
 |⌥+⇧+X R|Run on Server|
 |⌘+S|Save|
 |⇧+⌘+S|Save All|
+|⇧+⌘+F12|Search Repository for Task|
+|||
