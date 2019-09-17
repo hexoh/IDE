@@ -56,7 +56,7 @@
 |⌥+⇧+G|Generate Code|
 |`⌥+⌘+|`|Inline|
 |`⇧+⌘+|`|Inspect|
-|^Q|Last Edit Location|
+|^+Q|Last Edit Location|
 |⌥+⇧+⌘+F9|Layout Spy|
 |⌥+⇧+⌘+↑|Make Landmark|
 |⌥+⇧+⌘+↓|Make Less Interesting|
@@ -127,3 +127,4 @@
 |⇧+⌘+S|Save All|
 |⇧+⌘+F12|Search Repository for Task|
 |⌘+A|Select All|
+|^+⌥+P|Select Maven Profiles|
