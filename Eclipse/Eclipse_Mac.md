@@ -128,3 +128,4 @@
 |⇧+⌘+F12|Search Repository for Task|
 |⌘+A|Select All|
 |^+⌥+P|Select Maven Profiles|
+|||
