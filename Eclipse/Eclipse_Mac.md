@@ -131,3 +131,4 @@
 |⇧+F10|Show Context Menu|
 |⌥+⇧+⌘+→|Show Context Quick View|
 |||
+|||
