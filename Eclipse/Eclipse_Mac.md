@@ -164,4 +164,6 @@
 |⇧+⌘+[|Toggle Split Editor(Vertical)|
 |⌘+Z|Undo|
 |⌥+F5|Update Project|
-|||
+|⇧+F5|Use Step Filters|
+|⌘+=|Zoom In|
+|⌘+-|Zoom Out|
