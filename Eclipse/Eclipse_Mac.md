@@ -6,8 +6,8 @@
 | --- | --- |
 | **`⌘ + F12`** | 激活编辑器 Activate Editor |
 | **`⌘ + F9`** | 激活任务 Activate Task |
-|⌥+⇧+⌘+A|Add Artifact to Target Platform|
-|⌥+⌘+J|Add Javadoc Comment|
+| **`⌥ + ⇧ + ⌘ + A`** | 将工件添加到目标平台 Add Artifact to Target Platform|
+| **`⌥ + ⌘ + J`** | 添加Javadoc注释 Add Javadoc Comment|
 |⇧+⌘+N|All Instances|
 |⌥+⌘+←|Backward History|
 |⌘+B|Build All|
