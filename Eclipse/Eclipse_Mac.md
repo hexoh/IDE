@@ -11,7 +11,7 @@
 | **`⇧ + ⌘ + N`** | 所有实例 All Instances|
 | **`⌥ + ⌘ + ←`** | 后退历史 Backward History|
 | **`⌘ + B`** | 编译全部 Build All|
-|⌥+⌘+C|Change Method Signature|
+| **`⌥ + ⌘ + C`** |  Change Method Signature|
 |⌘+W|Close|
 |⇧+⌘+W|Close All|
 |⇧+⌘+Numpad_Divide|Collapse All|
