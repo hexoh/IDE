@@ -13,7 +13,7 @@
 | **`⌘ + B`** | 编译全部 Build All|
 | **`⌥ + ⌘ + C`** | 更改方法签名 Change Method Signature|
 | **`⌘ + W`** | 关闭 Close|
-|⇧+⌘+W|Close All|
+| **`⇧ + ⌘ + W`** | 全部关闭 Close All|
 |⇧+⌘+Numpad_Divide|Collapse All|
 |⌥+⌘+3|Commit...|
 |⌥+/|Content Assist|
