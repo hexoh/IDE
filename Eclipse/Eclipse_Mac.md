@@ -15,7 +15,7 @@
 | **`⌘ + W`** | 关闭 Close|
 | **`⇧ + ⌘ + W`** | 全部关闭 Close All|
 | **`⇧ + ⌘ + Numpad_Divide`** | 全部收缩 Collapse All|
-|⌥+⌘+3|Commit...|
+| **`⌥ + ⌘ + 3`** | 提交... Commit...|
 |⌥+/|Content Assist|
 |⌥+⇧+?|Context Information|
 |⌘+C|Copy|
