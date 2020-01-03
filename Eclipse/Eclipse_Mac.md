@@ -17,7 +17,7 @@
 | **`⇧ + ⌘ + Numpad_Divide`** | 全部收缩 Collapse All|
 | **`⌥ + ⌘ + 3`** | 提交... Commit...|
 | **`⌥ + /`** | 内容帮助 Content Assist|
-|⌥+⇧+?|Context Information|
+| **`⌥ + ⇧ + ?`** | 上下文信息 Context Information|
 |⌘+C|Copy|
 |⌃ + ⇧ +F11|Coverage|
 |⌥+⇧+E E|Coverage Eclipse Application|
