@@ -18,7 +18,7 @@
 | **`⌥ + ⌘ + 3`** | 提交... Commit...|
 | **`⌥ + /`** | 内容帮助 Content Assist|
 | **`⌥ + ⇧ + ?`** | 上下文信息 Context Information|
-|⌘+C|Copy|
+| **`⌘ + C`** | 复制 Copy|
 |⌃ + ⇧ +F11|Coverage|
 |⌥+⇧+E E|Coverage Eclipse Application|
 |⌥+⇧+E p|Coverage Junit Plug-in Test|
