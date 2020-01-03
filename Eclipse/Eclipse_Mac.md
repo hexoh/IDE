@@ -16,7 +16,7 @@
 | **`⇧ + ⌘ + W`** | 全部关闭 Close All|
 | **`⇧ + ⌘ + Numpad_Divide`** | 全部收缩 Collapse All|
 | **`⌥ + ⌘ + 3`** | 提交... Commit...|
-|⌥+/|Content Assist|
+| **`⌥ + /`** | 内容帮助 Content Assist|
 |⌥+⇧+?|Context Information|
 |⌘+C|Copy|
 |⌃ + ⇧ +F11|Coverage|
