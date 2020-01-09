@@ -21,7 +21,7 @@
 | **`⌘ + C`** | 复制 Copy|
 | **`⌃ + ⇧ + F11`** | 覆盖范围 Coverage|
 | **`⌥ + ⇧ + E E`**|Coverage Eclipse Application|
-|⌥+⇧+E p|Coverage Junit Plug-in Test|
+| **`⌥+⇧+E P`|Coverage Junit Plug-in Test|
 |⌥+⇧+E T|Coverage Junit Test|
 |⌥+⇧+E J|Coverage Java Application|
 |⌥+⇧+E R|Coverage RAP Junit Test|
