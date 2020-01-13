@@ -22,7 +22,7 @@
 | **`⌃ + ⇧ + F11`** | 覆盖范围 Coverage|
 | **`⌥ + ⇧ + E E`**|Coverage Eclipse Application|
 | **`⌥ + ⇧ + E P`** |Coverage Junit Plug-in Test|
-| **`⌥+⇧+E T`** |Coverage Junit Test|
+| **`⌥ + ⇧ + E T`** |Coverage Junit Test|
 |⌥+⇧+E J|Coverage Java Application|
 |⌥+⇧+E R|Coverage RAP Junit Test|
 |⌥+⇧+E S|Coverage SWTBot Test|
