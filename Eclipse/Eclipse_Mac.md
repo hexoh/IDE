@@ -24,7 +24,7 @@
 | **`⌥ + ⇧ + E P`** |Coverage Junit Plug-in Test|
 | **`⌥ + ⇧ + E T`** |Coverage Junit Test|
 | **`⌥ + ⇧ + E J`** |Coverage Java Application|
-|⌥+⇧+E R|Coverage RAP Junit Test|
+| **`⌥+⇧+E R`** |Coverage RAP Junit Test|
 |⌥+⇧+E S|Coverage SWTBot Test|
 |⌥+⇧+E L|Coverage Scala Application|
 |⌥+⇧+E G|Coverage TestNG Suite|
