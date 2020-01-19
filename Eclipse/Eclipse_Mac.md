@@ -26,7 +26,7 @@
 | **`⌥ + ⇧ + E J`** |Coverage Java Application|
 | **`⌥ + ⇧ + E R`** |Coverage RAP Junit Test|
 | **`⌥ + ⇧ + E S`** |Coverage SWTBot Test|
-|⌥+⇧+E L|Coverage Scala Application|
+| **`⌥ + ⇧ + E L`** |Coverage Scala Application|
 |⌥+⇧+E G|Coverage TestNG Suite|
 |⌥+⇧+E N|Coverage TestNG Test|
 |⌘+X|Cut|
