@@ -27,7 +27,7 @@
 | **`⌥ + ⇧ + E R`** |Coverage RAP Junit Test|
 | **`⌥ + ⇧ + E S`** |Coverage SWTBot Test|
 | **`⌥ + ⇧ + E L`** |Coverage Scala Application|
-|⌥+⇧+E G|Coverage TestNG Suite|
+| **`⌥ + ⇧ + E G`** |Coverage TestNG Suite|
 |⌥+⇧+E N|Coverage TestNG Test|
 |⌘+X|Cut|
 |⇧+⌘+F9|Deactivate Task|
