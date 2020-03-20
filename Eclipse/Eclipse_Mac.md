@@ -30,7 +30,7 @@
 | **`⌥ + ⇧ + E G`** |Coverage TestNG Suite|
 | **`⌥ + ⇧ + E N`** |Coverage TestNG Test|
 | **`⌘ + X`**|Cut|
-| **`⇧+⌘+F9`**|Deactivate Task|
+| **`⇧ + ⌘+F9`**|Deactivate Task|
 |⌘+F11|Debug|
 |⌃+⌥+⌘+D Q|Debug Ant Build|
 |⌃+⌥+⌘+D E|Debug Eclipse Application|
