@@ -33,7 +33,7 @@
 | **`⇧ + ⌘ + F9`** |Deactivate Task|
 | **`⌘ + F11`** |Debug|
 | **`⌃ + ⌥ + ⌘ + D Q`** |Debug Ant Build|
-| **`⌃+⌥+⌘+D E`**|Debug Eclipse Application|
+| **`⌃ + ⌥ + ⌘ + D E`** |Debug Eclipse Application|
 |⌃+⌥+⌘+D P|Debug Junit Plug-in Test|
 |⌃+⌥+⌘+D T|Debug Junit Test|
 |⌃+⌥+⌘+D A|Debug Java Applet|
