@@ -35,7 +35,7 @@
 | **`⌃ + ⌥ + ⌘ + D Q`** |Debug Ant Build|
 | **`⌃ + ⌥ + ⌘ + D E`** |Debug Eclipse Application|
 | **`⌃ + ⌥ + ⌘ + D P`** |Debug Junit Plug-in Test|
-| ⌃+⌥+⌘+D T|Debug Junit Test|
+| **`⌃+⌥+⌘+D T`** |Debug Junit Test|
 |⌃+⌥+⌘+D A|Debug Java Applet|
 |⌃+⌥+⌘+D J|Debug Java Application|
 |⌃+⌥+⌘+D O|Debug OSGi Framework|
