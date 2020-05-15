@@ -111,7 +111,7 @@
 | **```Ctrl + Shift + F7```** | **```Command + Shift + F7```** | 高亮显示所有该选中文本，按Esc高亮消失 |
 | **```Ctrl + Shift + F12```** | **```Command + Shift + F12```** | 编辑器最大化 |
 | **```Ctrl + Shift + Enter```** | **```Command + Shift + Enter```** | 自动结束代码，行末自动添加分号 |
-| **```Ctrl + Shift + Backspace```** | **```Ctrl + Shift + Backspace```** | 退回到上次修改的地方 |
+| **```Ctrl + Shift + Backspace```** | **```Command + Shift + Backspace```** | 退回到上次修改的地方 |
 | **```Ctrl + Shift + 1,2,3...9```** | **```Control + Shift + 1,2,3...9```** | 快速添加指定数值的书签 |
 | **```Ctrl + Shift + 左键单击```** | **```Command + Shift + 左键单击```** | 把光标放在某个类变量上，按此快捷键可以直接定位到该类中 |
 | **```Ctrl + Shift + 左方向键```** | **```Option + Shift + 左方向键```** | 在代码文件上，光标跳转到当前单词 / 中文句的左侧开头位置，同时选中该单词 / 中文句 |
