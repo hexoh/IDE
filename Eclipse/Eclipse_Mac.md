@@ -38,7 +38,7 @@
 | **`⌃ + ⌥ + ⌘ + D T`** |Debug Junit Test|
 | **`⌃ + ⌥ + ⌘ + D A`** |Debug Java Applet|
 | **`⌃ + ⌥ + ⌘ + D J`** |Debug Java Application|
-| **`⌃ + ⌥ + ⌘+D O`**|Debug OSGi Framework|
+| **`⌃ + ⌥ + ⌘ +D O`**|Debug OSGi Framework|
 |⌥+⌘+D X|Debug XSLT Transformation|
 |⌥+⇧+D R|Debug on Server|
 |⌘+G|Declaration in Workspace|
