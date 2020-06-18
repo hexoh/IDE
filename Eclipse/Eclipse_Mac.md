@@ -43,7 +43,7 @@
 | **`⌥ + ⇧ + D R`** |Debug on Server|
 | **`⌘ + G`** |Declaration in Workspace|
 | **`⌦`** |Delete|
-|⇧+⌘+D|Display|
+| **`⇧ + ⌘ + D`** |Display|
 |⌘+U|Execute|
 |⇧+⌘+Numpad_Multiplay|Expand All|
 |⌥+⌘+L|Extract Local Variable|
