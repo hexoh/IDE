@@ -42,7 +42,7 @@
 | **`⌥ + ⌘ + D X`** |Debug XSLT Transformation|
 | **`⌥ + ⇧ + D R`** |Debug on Server|
 | **`⌘ + G`** |Declaration in Workspace|
-|⌦|Delete|
+| **`⌦`** |Delete|
 |⇧+⌘+D|Display|
 |⌘+U|Execute|
 |⇧+⌘+Numpad_Multiplay|Expand All|
