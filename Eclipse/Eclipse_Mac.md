@@ -45,8 +45,8 @@
 | **`⌦`** |Delete|
 | **`⇧ + ⌘ + D`** |Display|
 | **`⌘ + U`** |Execute|
-| **`⇧+⌘+Numpad_Multiplay`** |Expand All|
-| **⌥+⌘+L|Extract Local Variable|
+| **`⇧ + ⌘ + Numpad_Multiplay`** |Expand All|
+| **`⌥ + ⌘ + L`** |Extract Local Variable|
 |⌥+⌘+M|Extract Method|
 |⌥+⌘+G|Find Text in Workspace|
 |⌘+F|Find and Replace|
