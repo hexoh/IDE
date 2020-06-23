@@ -47,8 +47,8 @@
 | **`⌘ + U`** |Execute|
 | **`⇧ + ⌘ + Numpad_Multiplay`** |Expand All|
 | **`⌥ + ⌘ + L`** |Extract Local Variable|
-| **`⌥+⌘+M`** |Extract Method|
-|⌥+⌘+G|Find Text in Workspace|
+| **`⌥ + ⌘ + M`** |Extract Method|
+| **`⌥+⌘+G`** |Find Text in Workspace|
 |⌘+F|Find and Replace|
 |⌥+⇧+H|Focus on Active Task|
 |⌥+⌘+F|Force Return|
