@@ -49,7 +49,7 @@
 | **`⌥ + ⌘ + L`** |Extract Local Variable|
 | **`⌥ + ⌘ + M`** |Extract Method|
 | **`⌥ + ⌘ + G`** |Find Text in Workspace|
-|⌘+F|Find and Replace|
+| **`⌘ + F`** |Find and Replace|
 |⌥+⇧+H|Focus on Active Task|
 |⌥+⌘+F|Force Return|
 |⌥+⌘+→|Forward History|
