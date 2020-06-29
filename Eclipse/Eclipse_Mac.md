@@ -50,7 +50,7 @@
 | **`⌥ + ⌘ + M`** |Extract Method|
 | **`⌥ + ⌘ + G`** |Find Text in Workspace|
 | **`⌘ + F`** |Find and Replace|
-|⌥+⇧+H|Focus on Active Task|
+| **`⌥ + ⇧ + H`** |Focus on Active Task|
 |⌥+⌘+F|Force Return|
 |⌥+⌘+→|Forward History|
 |⌥+⇧+G|Generate Code|
