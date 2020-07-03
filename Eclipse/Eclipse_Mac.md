@@ -52,7 +52,7 @@
 | **`⌘ + F`** |Find and Replace|
 | **`⌥ + ⇧ + H`** |Focus on Active Task|
 | **`⌥ + ⌘ + F`** |Force Return|
-| **⌥+⌘+→|Forward History|
+| ** ⌥+⌘+→|Forward History|
 |⌥+⇧+G|Generate Code|
 |`⌥+⌘+|`|Inline|
 |`⇧+⌘+|`|Inspect|
