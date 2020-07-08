@@ -52,9 +52,9 @@
 | **`⌘ + F`** |Find and Replace|
 | **`⌥ + ⇧ + H`** |Focus on Active Task|
 | **`⌥ + ⌘ + F`** |Force Return|
-| **`⌥ + ⌘+→`** |Forward History|
-|⌥+⇧+G|Generate Code|
-|`⌥+⌘+|`|Inline|
+| **`⌥ + ⌘ + →`** |Forward History|
+| **`⌥ + ⇧ + G`** |Generate Code|
+| **`⌥ + ⌘ + |`** |Inline|
 |`⇧+⌘+|`|Inspect|
 |^+Q|Last Edit Location|
 |⌥+⇧+⌘+F9|Layout Spy|
