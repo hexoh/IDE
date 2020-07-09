@@ -20,7 +20,7 @@
 | **`⌥ + ⇧ + ?`** | 上下文信息 Context Information|
 | **`⌘ + C`** | 复制 Copy|
 | **`⌃ + ⇧ + F11`** | 覆盖范围 Coverage|
-| **`⌥ + ⇧ + E E`**|Coverage Eclipse Application|
+| **`⌥ + ⇧ + E E`**| 覆盖Eclipse应用程序 Coverage Eclipse Application|
 | **`⌥ + ⇧ + E P`** |Coverage Junit Plug-in Test|
 | **`⌥ + ⇧ + E T`** |Coverage Junit Test|
 | **`⌥ + ⇧ + E J`** |Coverage Java Application|
@@ -55,9 +55,9 @@
 | **`⌥ + ⌘ + →`** |Forward History|
 | **`⌥ + ⇧ + G`** |Generate Code|
 | **`⌥ + ⌘ + |`** |Inline|
-|`⇧+⌘+|`|Inspect|
-|^+Q|Last Edit Location|
-|⌥+⇧+⌘+F9|Layout Spy|
+| **`⇧ + ⌘ + |`** |Inspect|
+| **`^ + Q`** |Last Edit Location|
+| **`⌥ + ⇧ + ⌘ + F9`** |Layout Spy|
 |⌥+⇧+⌘+↑|Make Landmark|
 |⌥+⇧+⌘+↓|Make Less Interesting|
 |⌃M|Maximize Active View or Editor|
