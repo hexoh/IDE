@@ -58,9 +58,9 @@
 | **`⇧ + ⌘ + |`** |Inspect|
 | **`^ + Q`** |Last Edit Location|
 | **`⌥ + ⇧ + ⌘ + F9`** |Layout Spy|
-|⌥+⇧+⌘+↑|Make Landmark|
-|⌥+⇧+⌘+↓|Make Less Interesting|
-|⌃M|Maximize Active View or Editor|
+| **`⌥ + ⇧ + ⌘ + ↑`** |Make Landmark|
+| **`⌥ + ⇧ + ⌘ + ↓`** |Make Less Interesting|
+| **`⌃ M`** |Maximize Active View or Editor|
 |⌥+⌘+V|Move - Refactoring|
 |⌘+N|New|
 |⌥+⌘+N|New menu|
