@@ -60,10 +60,10 @@
 | **`⌥ + ⇧ + ⌘ + F9`** |Layout Spy|
 | **`⌥ + ⇧ + ⌘ + ↑`** |Make Landmark|
 | **`⌥ + ⇧ + ⌘ + ↓`** |Make Less Interesting|
-| **`⌃ M`** |Maximize Active View or Editor|
-|⌥+⌘+V|Move - Refactoring|
-|⌘+N|New|
-|⌥+⌘+N|New menu|
+| **`⌃ + M`** |Maximize Active View or Editor|
+| **`⌥ + ⌘ + V`** |Move - Refactoring|
+| **`⌘ + N`** |New|
+| **`⌥ + ⌘ + N`** |New menu|
 |⌘+.|Next|
 |⌘+F6|Next Editor|
 |⌥+F7|Next Page|
