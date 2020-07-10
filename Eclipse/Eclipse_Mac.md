@@ -64,41 +64,41 @@
 | **`⌥ + ⌘ + V`** |Move - Refactoring|
 | **`⌘ + N`** |New|
 | **`⌥ + ⌘ + N`** |New menu|
-|⌘+.|Next|
-|⌘+F6|Next Editor|
-|⌥+F7|Next Page|
-|⌘+F8|Next Perspective|
-|⌥+⇟|Next Sub-Tab|
-|^+⇟|Next Tab|
-|⌘+F7|Next View|
-|⇧+F2|Open Attached Javadoc|
-|^+⌥+H|Open Call Hierarchy|
-|F3|Open Declaration|
-|^+⌥+⇧+T|Open Local Terminal on Selection|
-|⌥+⇧+⌘+M|Open Manifest|
-|⌥+⇧+P|Open Maven POM|
-|⇧+⌘+A|Open Plug-in Artifact|
-|⌥+⇧+⌘+F12|Open Remote Task|
-|⇧+⌘+R|Open Resource|
-|^+H|Open Search Dialog|
-|⌥+⌘+F12|Open Task|
-|⇧+⌘+T|Open Type|
-|F4|Open Type Hierarchy|
-|⇧+⌘+H|Open Type in Hierarchy|
-|⇧+⌘+V|Open from Clipboard|
-|⇧+⌘+O|Organize Imports|
-|⌘+V|Paste|
-|⌥+⇧+F2|Plug-in Menu Spy|
-|⌥+⇧+F1|Plug-in Selection Spy|
-|⇧+⌘+.|Previous|
-|⇧+⌘+F6|Previous Editor|
-|⌥+⌘+F7|Previous Page|
-|⇧+⌘+F8|Previous Perspective|
-|⌥+⇞|Previous Sub-Tab|
-|^+⇞|Previous Tab|
-|⇧+⌘+F7|Previous View|
-|⌘+P|Print|
-|⌥+↩|Properties|
+| **`⌘ + .`** |Next|
+| **`⌘ + F6`** |Next Editor|
+| **`⌥ + F7`** |Next Page|
+| **`⌘ + F8`** |Next Perspective|
+| **`⌥ + ⇟`** |Next Sub-Tab|
+| **`^ + ⇟`** |Next Tab|
+| **`⌘ + F7`** |Next View|
+| **`⇧ + F2`** |Open Attached Javadoc|
+| **`^ + ⌥ + H`** |Open Call Hierarchy|
+| **`F3`** |Open Declaration|
+| **`^ + ⌥ + ⇧ + T`** |Open Local Terminal on Selection|
+| **`⌥ + ⇧ + ⌘ + M`** |Open Manifest|
+| **`⌥ + ⇧ + P`** |Open Maven POM|
+| **`⇧ + ⌘ + A`** |Open Plug-in Artifact|
+| **`⌥ + ⇧ + ⌘ + F12`** |Open Remote Task|
+| **`⇧ + ⌘ + R`** |Open Resource|
+| **`^ + H`** |Open Search Dialog|
+| **`⌥ + ⌘ + F12`** |Open Task|
+| **`⇧ + ⌘ + T`** |Open Type|
+| **`F4`** |Open Type Hierarchy|
+| **`⇧ + ⌘ + H`** |Open Type in Hierarchy|
+| **`⇧ + ⌘ + V`** |Open from Clipboard|
+| **`⇧ + ⌘ + O`** |Organize Imports|
+| **`⌘ + V`** |Paste|
+| **`⌥ + ⇧ + F2`** |Plug-in Menu Spy|
+| **`⌥ + ⇧ + F1`** |Plug-in Selection Spy|
+| **`⇧ + ⌘ + .`** |Previous|
+| **`⇧ + ⌘ + F6`** |Previous Editor|
+| **`⌥ + ⌘ + F7`** |Previous Page|
+| **`⇧ + ⌘ + F8`** |Previous Perspective|
+| **`⌥ + ⇞`** |Previous Sub-Tab|
+| **`^ + ⇞`** |Previous Tab|
+| **`⇧ + ⌘ + F7`** |Previous View|
+| **`⌘ + P`** |Print|
+| **`⌥ + ↩`** |Properties|
 |⌘+3|Quick Access|
 |⌘+1|Quick Fix|
 |⇧+⌘+L|Quick Search Command|
