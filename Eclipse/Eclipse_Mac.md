@@ -103,7 +103,7 @@
 | **`⌘ + 1`** |Quick Fix|
 | **`⇧ + ⌘ + L`** |Quick Search Command|
 | **`⌘ + E`** |Quick Switch Editor|
-|⇧+⌘+Z|Redo|
+| **`⇧+⌘+Z`** |Redo|
 |⇧+⌘+G|References in Workspace|
 |F5|Refresh|
 |⇧+⌦|Remove All Visible Results|
