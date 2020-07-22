@@ -104,7 +104,7 @@
 | **`⇧ + ⌘ + L`** |Quick Search Command|
 | **`⌘ + E`** |Quick Switch Editor|
 | **`⇧ + ⌘ + Z`** |Redo|
-|⇧+⌘+G|References in Workspace|
+| **`⇧ + ⌘ + G`** |References in Workspace|
 |F5|Refresh|
 |⇧+⌦|Remove All Visible Results|
 |⌘+⌦|Remove Result|
