@@ -106,7 +106,7 @@
 | **`⇧ + ⌘ + Z`** |Redo|
 | **`⇧ + ⌘ + G`** |References in Workspace|
 | **`F5`** |Refresh|
-|⇧+⌦|Remove All Visible Results|
+| **`⇧ + ⌦`** |Remove All Visible Results|
 |⌘+⌦|Remove Result|
 |F2|Rename|
 |⌥+⌘+R|Rename - Refactoring|
