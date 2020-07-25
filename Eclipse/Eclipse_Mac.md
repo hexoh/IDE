@@ -107,7 +107,7 @@
 | **`⇧ + ⌘ + G`** |References in Workspace|
 | **`F5`** |Refresh|
 | **`⇧ + ⌦`** |Remove All Visible Results|
-|⌘+⌦|Remove Result|
+| **`⌘+⌦`** |Remove Result|
 |F2|Rename|
 |⌥+⌘+R|Rename - Refactoring|
 |⇧+⌘+F11|Run|
