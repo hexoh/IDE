@@ -109,7 +109,7 @@
 | **`⇧ + ⌦`** |Remove All Visible Results|
 | **`⌘ + ⌦`** |Remove Result|
 | **`F2`** |Rename|
-|⌥+⌘+R|Rename - Refactoring|
+| **`⌥ + ⌘ + R`** |Rename - Refactoring|
 |⇧+⌘+F11|Run|
 |⌥+⌘+X Q|Run Ant Build|
 |⌥+⌘+X E|Run Eclipse Application|
