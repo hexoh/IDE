@@ -108,7 +108,7 @@
 | **`F5`** |Refresh|
 | **`⇧ + ⌦`** |Remove All Visible Results|
 | **`⌘ + ⌦`** |Remove Result|
-|F2|Rename|
+| **`F2`** |Rename|
 |⌥+⌘+R|Rename - Refactoring|
 |⇧+⌘+F11|Run|
 |⌥+⌘+X Q|Run Ant Build|
