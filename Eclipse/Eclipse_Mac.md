@@ -110,7 +110,7 @@
 | **`⌘ + ⌦`** |Remove Result|
 | **`F2`** |Rename|
 | **`⌥ + ⌘ + R`** |Rename - Refactoring|
-| **`⇧+⌘+F11`** |Run|
+| **`⇧ + ⌘ + F11`** |Run|
 |⌥+⌘+X Q|Run Ant Build|
 |⌥+⌘+X E|Run Eclipse Application|
 |⌥+⌘+X G|Run Gradle Test|
