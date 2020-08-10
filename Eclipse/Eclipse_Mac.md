@@ -113,16 +113,16 @@
 | **`⇧ + ⌘ + F11`** |Run|
 | **`⌥ + ⌘ + X Q`** |Run Ant Build|
 | **`⌥ + ⌘ + X E`** |Run Eclipse Application|
-|⌥+⌘+X G|Run Gradle Test|
-|⌥+⌘+X P|Run JUnit Plug-in Test|
-|⌥+⌘+X T|Run JUnit Test|
-|⌥+⌘+X A|Run Java Applet|
-|⌥+⌘+X J|Run Java Application|
-|⌥+⇧+X M|Run Maven Build|
-|⌥+⌘+X O|Run OSGi Framework|
-|⌥+⇧+X B|Run Spring Boot App|
-|⌥+⌘+X X|Run XSLT Transformation|
-|⌥+⇧+X R|Run on Server|
+| **`⌥ + ⌘ + X G`** |Run Gradle Test|
+| **`⌥ + ⌘ + X P`** |Run JUnit Plug-in Test|
+| **`⌥ + ⌘ + X T`** |Run JUnit Test|
+| **`⌥ + ⌘ + X A`** |Run Java Applet|
+| **`⌥ + ⌘ + X J`** |Run Java Application|
+| **`⌥ + ⇧ + X M`** |Run Maven Build|
+| **`⌥ + ⌘ + X O`** |Run OSGi Framework|
+| **`⌥ + ⇧ + X B`** |Run Spring Boot App|
+| **`⌥ + ⌘ + X X`** |Run XSLT Transformation|
+| **`⌥ + ⇧ + X R`** |Run on Server|
 |⌘+S|Save|
 |⇧+⌘+S|Save All|
 |⇧+⌘+F12|Search Repository for Task|
