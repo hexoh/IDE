@@ -123,7 +123,7 @@
 | **`⌥ + ⇧ + X B`** |Run Spring Boot App|
 | **`⌥ + ⌘ + X X`** |Run XSLT Transformation|
 | **`⌥ + ⇧ + X R`** |Run on Server|
-|⌘+S|Save|
+| **`⌘+S`** |Save|
 |⇧+⌘+S|Save All|
 |⇧+⌘+F12|Search Repository for Task|
 |⌘+A|Select All|
