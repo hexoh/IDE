@@ -125,7 +125,7 @@
 | **`⌥ + ⇧ + X R`** |Run on Server|
 | **`⌘ + S`** |Save|
 | **`⇧ + ⌘ + S`** |Save All|
-| **`⇧+⌘+F12`** |Search Repository for Task|
+| **`⇧ + ⌘ + F12`** |Search Repository for Task|
 |⌘+A|Select All|
 |^+⌥+P|Select Maven Profiles|
 |⇧+F10|Show Context Menu|
