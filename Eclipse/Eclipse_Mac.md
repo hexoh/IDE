@@ -127,7 +127,7 @@
 | **`⇧ + ⌘ + S`** |Save All|
 | **`⇧ + ⌘ + F12`** |Search Repository for Task|
 | **`⌘ + A`** |Select All|
-|^+⌥+P|Select Maven Profiles|
+| **`^ + ⌥ + P`** |Select Maven Profiles|
 |⇧+F10|Show Context Menu|
 |⌥+⇧+⌘+→|Show Context Quick View|
 |⌥+⇧+F3|Show Contributing Plug-in|
