@@ -129,7 +129,7 @@
 | **`⌘ + A`** |Select All|
 | **`^ + ⌥ + P`** |Select Maven Profiles|
 | **`⇧ + F10`** |Show Context Menu|
-|⌥+⇧+⌘+→|Show Context Quick View|
+| **`⌥ + ⇧ + ⌘ + →`** |Show Context Quick View|
 |⌥+⇧+F3|Show Contributing Plug-in|
 |⌥+⌘+W|Show In...|
 |⇧+⌘+L|Show Key Assist|
