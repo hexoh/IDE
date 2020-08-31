@@ -131,7 +131,7 @@
 | **`⇧ + F10`** |Show Context Menu|
 | **`⌥ + ⇧ + ⌘ + →`** |Show Context Quick View|
 | **`⌥ + ⇧ + F3`**|Show Contributing Plug-in|
-|⌥+⌘+W|Show In...|
+| **`⌥+⌘+W`** |Show In...|
 |⇧+⌘+L|Show Key Assist|
 |⇧+⌘+U|Show Occurrences in File Quick Menu|
 |⌥+⌘+T|Show Refactor Quick Menu|
