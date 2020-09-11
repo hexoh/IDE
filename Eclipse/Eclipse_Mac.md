@@ -134,7 +134,7 @@
 | **`⌥ + ⌘ + W`** |Show In...|
 | **`⇧ + ⌘ + L`** |Show Key Assist|
 | **`⇧ + ⌘ + U`** |Show Occurrences in File Quick Menu|
-|⌥+⌘+T|Show Refactor Quick Menu|
+| **`⌥ + ⌘ + T`** |Show Refactor Quick Menu|
 |⌥+⌘+S|Show Source Quick Menu|
 |⇧+⌘+F10|Show System Menu|
 |⌥+⌘+Q D|Show View|
