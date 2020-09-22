@@ -138,22 +138,22 @@
 | **`⌥ + ⌘ + S`** |Show Source Quick Menu|
 | **`⇧ + ⌘ + F10`** |Show System Menu|
 | **`⌥ + ⌘ + Q D`** |Show View|
-|⌥+⌘+Q B|Show View(Breakpoints)|
-|⌥+⌘+Q H|Show View(Cheat Sheets)|
-|⌥+⌘+Q C|Show View(Console)|
-|⌥+⌘+Q L|Show View(Error Log)|
-|⌥+⌘+Q Z|Show View(History)|
-|⌥+⌘+Q J|Show View(Javadoc)|
-|⌥+⌘+Q O|Show View(Outline)|
-|⌥+⌘+Q P|Show View(Package Explorer)|
-|⌥+⌘+Q X|Show View(Problems)|
-|⌥+⌘+Q S|Show View(Search)|
-|⌥+⌘+Q Y|Show View(Synchronize)|
-|⌥+⌘+Q K|Show View(Task List)|
-|⌥+⌘+Q T|Show View(Type Hierarchy)|
-|⌥+⌘+Q V|Show View(Variables)|
-|⌘+F10|Show View Menu|
-|^+⌥+B|Skip All Breakpoints|
+| **`⌥ + ⌘ + Q B`** |Show View(Breakpoints)|
+| **`⌥ + ⌘ + Q H`** |Show View(Cheat Sheets)|
+| **`⌥ + ⌘ + Q C`** |Show View(Console)|
+| **`⌥ + ⌘ + Q L`** |Show View(Error Log)|
+| **`⌥ + ⌘ + Q Z`** |Show View(History)|
+| **`⌥ + ⌘ + Q J`** |Show View(Javadoc)|
+| **`⌥ + ⌘ + Q O`** |Show View(Outline)|
+| **`⌥ + ⌘ + Q P`** |Show View(Package Explorer)|
+| **`⌥ + ⌘ + Q X`** |Show View(Problems)|
+| **`⌥ + ⌘ + Q S`** |Show View(Search)|
+| **`⌥ + ⌘ + Q Y`** |Show View(Synchronize)|
+| **`⌥ + ⌘ + Q K`** |Show View(Task List)|
+| **`⌥ + ⌘ + Q T`** |Show View(Type Hierarchy)|
+| **`⌥ + ⌘ + Q V`** |Show View(Variables)|
+| **`⌘ + F10`** |Show View Menu|
+| **`^ + ⌥ + B`** |Skip All Breakpoints|
 |⌥+⇧+⌘+B S|Stop|
 |⌥+⌘+Z|Surround With Quick Menu|
 |⇧+⌘+E|Switch to Editor|
