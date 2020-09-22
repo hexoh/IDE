@@ -136,8 +136,8 @@
 | **`⇧ + ⌘ + U`** |Show Occurrences in File Quick Menu|
 | **`⌥ + ⌘ + T`** |Show Refactor Quick Menu|
 | **`⌥ + ⌘ + S`** |Show Source Quick Menu|
-|⇧+⌘+F10|Show System Menu|
-|⌥+⌘+Q D|Show View|
+| **`⇧ + ⌘ + F10`** |Show System Menu|
+| **`⌥ + ⌘ + Q D`** |Show View|
 |⌥+⌘+Q B|Show View(Breakpoints)|
 |⌥+⌘+Q H|Show View(Cheat Sheets)|
 |⌥+⌘+Q C|Show View(Console)|
