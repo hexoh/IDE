@@ -154,16 +154,16 @@
 | **`⌥ + ⌘ + Q V`** |Show View(Variables)|
 | **`⌘ + F10`** |Show View Menu|
 | **`^ + ⌥ + B`** |Skip All Breakpoints|
-|⌥+⇧+⌘+B S|Stop|
-|⌥+⌘+Z|Surround With Quick Menu|
-|⇧+⌘+E|Switch to Editor|
-|⌘+Break|Terminate Result|
-|⇧+⌘+B|Toggle Breakpoint|
-|^+⌘+F|Toggle Full Screen|
-|⇧+⌘+-|Toggle Split Editor(Horizontal)|
-|⇧+⌘+[|Toggle Split Editor(Vertical)|
-|⌘+Z|Undo|
-|⌥+F5|Update Project|
-|⇧+F5|Use Step Filters|
-|⌘+=|Zoom In|
-|⌘+-|Zoom Out|
+| **`⌥ + ⇧ + ⌘ + B S`** |Stop|
+| **`⌥ + ⌘ + Z`** |Surround With Quick Menu|
+| **`⇧ + ⌘ + E`** |Switch to Editor|
+| **`⌘ + Break`** |Terminate Result|
+| **`⇧ + ⌘ + B`** |Toggle Breakpoint|
+| **`^ + ⌘ + F`** |Toggle Full Screen|
+| **`⇧ + ⌘ + -`** |Toggle Split Editor(Horizontal)|
+| **`⇧ + ⌘ + [`** |Toggle Split Editor(Vertical)|
+| **`⌘ + Z`** |Undo|
+| **`⌥ + F5`** |Update Project|
+| **`⇧ + F5`** |Use Step Filters|
+| **`⌘ + =`** |Zoom In|
+| **`⌘ + -`** |Zoom Out|
