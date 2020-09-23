@@ -21,9 +21,9 @@
 | **`⌘ + C`** | 复制 Copy|
 | **`⌃ + ⇧ + F11`** | 覆盖范围 Coverage|
 | **`⌥ + ⇧ + E E`**| 覆盖Eclipse应用程序 Coverage Eclipse Application|
-| **`⌥ + ⇧ + E P`** |Coverage Junit Plug-in Test|
-| **`⌥ + ⇧ + E T`** |Coverage Junit Test|
-| **`⌥ + ⇧ + E J`** |Coverage Java Application|
+| **`⌥ + ⇧ + E P`** | 覆盖Junit插件测试 Coverage Junit Plug-in Test|
+| **`⌥ + ⇧ + E T`** | 覆盖Junit测试 Coverage Junit Test|
+| **`⌥ + ⇧ + E J`** | 覆盖Java应用程序 Coverage Java Application|
 | **`⌥ + ⇧ + E R`** |Coverage RAP Junit Test|
 | **`⌥ + ⇧ + E S`** |Coverage SWTBot Test|
 | **`⌥ + ⇧ + E L`** |Coverage Scala Application|
