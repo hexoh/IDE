@@ -4,8 +4,8 @@
 
 | 快捷键 | 说明 |
 | --- | --- |
-| **`⌘ + F12`** | 激活编辑器 Activate Editor |
-| **`⌘ + F9`** | 激活任务 Activate Task |
+| **`⌘ + F12`** | 激活编辑器 Activate Editor|
+| **`⌘ + F9`** | 激活任务 Activate Task|
 | **`⌥ + ⇧ + ⌘ + A`** | 将工件添加到目标平台 Add Artifact to Target Platform|
 | **`⌥ + ⌘ + J`** | 添加Javadoc注释 Add Javadoc Comment|
 | **`⇧ + ⌘ + N`** | 所有实例 All Instances|
@@ -20,19 +20,19 @@
 | **`⌥ + ⇧ + ?`** | 上下文信息 Context Information|
 | **`⌘ + C`** | 复制 Copy|
 | **`⌃ + ⇧ + F11`** | 覆盖范围 Coverage|
-| **`⌥ + ⇧ + E E`**| 覆盖Eclipse应用程序 Coverage Eclipse Application|
-| **`⌥ + ⇧ + E P`** | 覆盖Junit插件测试 Coverage Junit Plug-in Test|
-| **`⌥ + ⇧ + E T`** | 覆盖Junit测试 Coverage Junit Test|
-| **`⌥ + ⇧ + E J`** | 覆盖Java应用程序 Coverage Java Application|
-| **`⌥ + ⇧ + E R`** |Coverage RAP Junit Test|
-| **`⌥ + ⇧ + E S`** |Coverage SWTBot Test|
-| **`⌥ + ⇧ + E L`** |Coverage Scala Application|
-| **`⌥ + ⇧ + E G`** |Coverage TestNG Suite|
-| **`⌥ + ⇧ + E N`** |Coverage TestNG Test|
-| **`⌘ + X`** |Cut|
-| **`⇧ + ⌘ + F9`** |Deactivate Task|
-| **`⌘ + F11`** |Debug|
-| **`⌃ + ⌥ + ⌘ + D Q`** |Debug Ant Build|
+| **`⌥ + ⇧ + E E`**| 覆盖 Eclipse 应用程序 Coverage Eclipse Application|
+| **`⌥ + ⇧ + E P`** | 覆盖 Junit 插件测试 Coverage Junit Plug-in Test|
+| **`⌥ + ⇧ + E T`** | 覆盖 Junit 测试 Coverage Junit Test|
+| **`⌥ + ⇧ + E J`** | 覆盖 Java 应用程序 Coverage Java Application|
+| **`⌥ + ⇧ + E R`** | 覆盖 RAP Junit 测试 Coverage RAP Junit Test|
+| **`⌥ + ⇧ + E S`** | 覆盖 SWTBot 测试 Coverage SWTBot Test|
+| **`⌥ + ⇧ + E L`** | 覆盖 Scala 应用 Coverage Scala Application|
+| **`⌥ + ⇧ + E G`** | 覆盖 TestNG 套件 Coverage TestNG Suite|
+| **`⌥ + ⇧ + E N`** | 覆盖 TestNG 测试 Coverage TestNG Test|
+| **`⌘ + X`** | 剪贴 Cut|
+| **`⇧ + ⌘ + F9`** | 停用任务 Deactivate Task|
+| **`⌘ + F11`** | 调试 Debug|
+| **`⌃ + ⌥ + ⌘ + D Q`** | 调试 Ant 构建 Debug Ant Build|
 | **`⌃ + ⌥ + ⌘ + D E`** |Debug Eclipse Application|
 | **`⌃ + ⌥ + ⌘ + D P`** |Debug Junit Plug-in Test|
 | **`⌃ + ⌥ + ⌘ + D T`** |Debug Junit Test|
