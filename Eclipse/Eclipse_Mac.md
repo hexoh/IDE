@@ -1,6 +1,6 @@
 # Eclipse For Mac 快捷键
 
-本文为 Eclipse For Mac 快捷键说明文档，根据 Eclipse 软件中的快捷键说明翻译而来，在 Eclipse 中使用 **`⌘ + ⇧ + L`** 快捷键为。文档只是翻译默认快捷键，不同的版本软件可能稍有差异。
+本文为 Eclipse For Mac 快捷键说明文档，根据 Eclipse 软件中的快捷键说明翻译而来，在 Eclipse 中使用 **`⌘ + ⇧ + L`** 打开快捷键窗口。文档只是翻译默认快捷键，不同的版本软件可能稍有差异。
 
 | 快捷键 | 说明 |
 | --- | --- |
@@ -33,8 +33,8 @@
 | **`⇧ + ⌘ + F9`** | 停用任务 Deactivate Task|
 | **`⌘ + F11`** | 调试 Debug|
 | **`⌃ + ⌥ + ⌘ + D Q`** | 调试 Ant 构建 Debug Ant Build|
-| **`⌃ + ⌥ + ⌘ + D E`** |Debug Eclipse Application|
-| **`⌃ + ⌥ + ⌘ + D P`** |Debug Junit Plug-in Test|
+| **`⌃ + ⌥ + ⌘ + D E`** | 调试 Ecliopse 应用程序 Debug Eclipse Application|
+| **`⌃ + ⌥ + ⌘ + D P`** | 调试 Junit 插件测试 Debug Junit Plug-in Test|
 | **`⌃ + ⌥ + ⌘ + D T`** |Debug Junit Test|
 | **`⌃ + ⌥ + ⌘ + D A`** |Debug Java Applet|
 | **`⌃ + ⌥ + ⌘ + D J`** |Debug Java Application|
