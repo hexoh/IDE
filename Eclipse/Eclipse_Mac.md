@@ -35,19 +35,19 @@
 | **`⌃ + ⌥ + ⌘ + D Q`** | 调试 Ant 构建 Debug Ant Build|
 | **`⌃ + ⌥ + ⌘ + D E`** | 调试 Ecliopse 应用程序 Debug Eclipse Application|
 | **`⌃ + ⌥ + ⌘ + D P`** | 调试 Junit 插件测试 Debug Junit Plug-in Test|
-| **`⌃ + ⌥ + ⌘ + D T`** |Debug Junit Test|
-| **`⌃ + ⌥ + ⌘ + D A`** |Debug Java Applet|
-| **`⌃ + ⌥ + ⌘ + D J`** |Debug Java Application|
-| **`⌃ + ⌥ + ⌘ + D O`** |Debug OSGi Framework|
-| **`⌥ + ⌘ + D X`** |Debug XSLT Transformation|
-| **`⌥ + ⇧ + D R`** |Debug on Server|
-| **`⌘ + G`** |Declaration in Workspace|
-| **`⌦`** |Delete|
-| **`⇧ + ⌘ + D`** |Display|
-| **`⌘ + U`** |Execute|
-| **`⇧ + ⌘ + Numpad_Multiplay`** |Expand All|
-| **`⌥ + ⌘ + L`** |Extract Local Variable|
-| **`⌥ + ⌘ + M`** |Extract Method|
+| **`⌃ + ⌥ + ⌘ + D T`** | 调试 Junit 测试 Debug Junit Test|
+| **`⌃ + ⌥ + ⌘ + D A`** | 调试 Java 小程序 Debug Java Applet|
+| **`⌃ + ⌥ + ⌘ + D J`** | 调试 Java 应用程序 Debug Java Application|
+| **`⌃ + ⌥ + ⌘ + D O`** | 调试 OSGi 框架 Debug OSGi Framework|
+| **`⌥ + ⌘ + D X`** | 调试 XSLT 转换 Debug XSLT Transformation|
+| **`⌥ + ⇧ + D R`** | 在服务器上调试 Debug on Server|
+| **`⌘ + G`** | 工作区声明 Declaration in Workspace|
+| **`⌦`** | 删除 Delete|
+| **`⇧ + ⌘ + D`** | 展示 Display|
+| **`⌘ + U`** | 执行 Execute|
+| **`⇧ + ⌘ + Numpad_Multiplay`** | 展开全部 Expand All|
+| **`⌥ + ⌘ + L`** | 提取局部变量 Extract Local Variable|
+| **`⌥ + ⌘ + M`** | 提取方法 Extract Method|
 | **`⌥ + ⌘ + G`** |Find Text in Workspace|
 | **`⌘ + F`** |Find and Replace|
 | **`⌥ + ⇧ + H`** |Focus on Active Task|
