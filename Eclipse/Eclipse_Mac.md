@@ -48,15 +48,15 @@
 | **`⇧ + ⌘ + Numpad_Multiplay`** | 展开全部 Expand All|
 | **`⌥ + ⌘ + L`** | 提取局部变量 Extract Local Variable|
 | **`⌥ + ⌘ + M`** | 提取方法 Extract Method|
-| **`⌥ + ⌘ + G`** |Find Text in Workspace|
-| **`⌘ + F`** |Find and Replace|
-| **`⌥ + ⇧ + H`** |Focus on Active Task|
-| **`⌥ + ⌘ + F`** |Force Return|
-| **`⌥ + ⌘ + →`** |Forward History|
-| **`⌥ + ⇧ + G`** |Generate Code|
-| **`⌥ + ⌘ + |`** |Inline|
-| **`⇧ + ⌘ + |`** |Inspect|
-| **`^ + Q`** |Last Edit Location|
+| **`⌥ + ⌘ + G`** | 在工作区中查找文本 Find Text in Workspace|
+| **`⌘ + F`** | 查找和替换 Find and Replace|
+| **`⌥ + ⇧ + H`** | 专注于活动任务 Focus on Active Task|
+| **`⌥ + ⌘ + F`** | 强制返回 Force Return|
+| **`⌥ + ⌘ + →`** | 跳转到历史 Forward History|
+| **`⌥ + ⇧ + G`** | 生成代码 Generate Code|
+| **`⌥ + ⌘ + |`** | 内联 Inline|
+| **`⇧ + ⌘ + |`** | 检查 Inspect|
+| **`^ + Q`** | 最后编辑位置 Last Edit Location|
 | **`⌥ + ⇧ + ⌘ + F9`** |Layout Spy|
 | **`⌥ + ⇧ + ⌘ + ↑`** |Make Landmark|
 | **`⌥ + ⇧ + ⌘ + ↓`** |Make Less Interesting|
