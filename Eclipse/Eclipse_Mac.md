@@ -90,80 +90,80 @@
 | **`⌘ + V`** | 粘贴 Paste|
 | **`⌥ + ⇧ + F2`** | 隐藏插件菜单 Plug-in Menu Spy|
 | **`⌥ + ⇧ + F1`** | 隐藏插件选择 Plug-in Selection Spy|
-| **`⇧ + ⌘ + .`** |Previous|
-| **`⇧ + ⌘ + F6`** |Previous Editor|
-| **`⌥ + ⌘ + F7`** |Previous Page|
-| **`⇧ + ⌘ + F8`** |Previous Perspective|
-| **`⌥ + ⇞`** |Previous Sub-Tab|
-| **`^ + ⇞`** |Previous Tab|
-| **`⇧ + ⌘ + F7`** |Previous View|
-| **`⌘ + P`** |Print|
-| **`⌥ + ↩`** |Properties|
-| **`⌘ + 3`** |Quick Access|
-| **`⌘ + 1`** |Quick Fix|
-| **`⇧ + ⌘ + L`** |Quick Search Command|
-| **`⌘ + E`** |Quick Switch Editor|
-| **`⇧ + ⌘ + Z`** |Redo|
-| **`⇧ + ⌘ + G`** |References in Workspace|
-| **`F5`** |Refresh|
-| **`⇧ + ⌦`** |Remove All Visible Results|
-| **`⌘ + ⌦`** |Remove Result|
-| **`F2`** |Rename|
-| **`⌥ + ⌘ + R`** |Rename - Refactoring|
-| **`⇧ + ⌘ + F11`** |Run|
-| **`⌥ + ⌘ + X Q`** |Run Ant Build|
-| **`⌥ + ⌘ + X E`** |Run Eclipse Application|
-| **`⌥ + ⌘ + X G`** |Run Gradle Test|
-| **`⌥ + ⌘ + X P`** |Run JUnit Plug-in Test|
-| **`⌥ + ⌘ + X T`** |Run JUnit Test|
-| **`⌥ + ⌘ + X A`** |Run Java Applet|
-| **`⌥ + ⌘ + X J`** |Run Java Application|
-| **`⌥ + ⇧ + X M`** |Run Maven Build|
-| **`⌥ + ⌘ + X O`** |Run OSGi Framework|
-| **`⌥ + ⇧ + X B`** |Run Spring Boot App|
-| **`⌥ + ⌘ + X X`** |Run XSLT Transformation|
-| **`⌥ + ⇧ + X R`** |Run on Server|
-| **`⌘ + S`** |Save|
-| **`⇧ + ⌘ + S`** |Save All|
-| **`⇧ + ⌘ + F12`** |Search Repository for Task|
-| **`⌘ + A`** |Select All|
-| **`^ + ⌥ + P`** |Select Maven Profiles|
-| **`⇧ + F10`** |Show Context Menu|
-| **`⌥ + ⇧ + ⌘ + →`** |Show Context Quick View|
-| **`⌥ + ⇧ + F3`**|Show Contributing Plug-in|
-| **`⌥ + ⌘ + W`** |Show In...|
-| **`⇧ + ⌘ + L`** |Show Key Assist|
-| **`⇧ + ⌘ + U`** |Show Occurrences in File Quick Menu|
-| **`⌥ + ⌘ + T`** |Show Refactor Quick Menu|
-| **`⌥ + ⌘ + S`** |Show Source Quick Menu|
-| **`⇧ + ⌘ + F10`** |Show System Menu|
-| **`⌥ + ⌘ + Q D`** |Show View|
-| **`⌥ + ⌘ + Q B`** |Show View(Breakpoints)|
-| **`⌥ + ⌘ + Q H`** |Show View(Cheat Sheets)|
-| **`⌥ + ⌘ + Q C`** |Show View(Console)|
-| **`⌥ + ⌘ + Q L`** |Show View(Error Log)|
-| **`⌥ + ⌘ + Q Z`** |Show View(History)|
-| **`⌥ + ⌘ + Q J`** |Show View(Javadoc)|
-| **`⌥ + ⌘ + Q O`** |Show View(Outline)|
-| **`⌥ + ⌘ + Q P`** |Show View(Package Explorer)|
-| **`⌥ + ⌘ + Q X`** |Show View(Problems)|
-| **`⌥ + ⌘ + Q S`** |Show View(Search)|
-| **`⌥ + ⌘ + Q Y`** |Show View(Synchronize)|
-| **`⌥ + ⌘ + Q K`** |Show View(Task List)|
-| **`⌥ + ⌘ + Q T`** |Show View(Type Hierarchy)|
-| **`⌥ + ⌘ + Q V`** |Show View(Variables)|
-| **`⌘ + F10`** |Show View Menu|
-| **`^ + ⌥ + B`** |Skip All Breakpoints|
-| **`⌥ + ⇧ + ⌘ + B S`** |Stop|
-| **`⌥ + ⌘ + Z`** |Surround With Quick Menu|
-| **`⇧ + ⌘ + E`** |Switch to Editor|
-| **`⌘ + Break`** |Terminate Result|
-| **`⇧ + ⌘ + B`** |Toggle Breakpoint|
-| **`^ + ⌘ + F`** |Toggle Full Screen|
-| **`⇧ + ⌘ + -`** |Toggle Split Editor(Horizontal)|
-| **`⇧ + ⌘ + [`** |Toggle Split Editor(Vertical)|
-| **`⌘ + Z`** |Undo|
-| **`⌥ + F5`** |Update Project|
-| **`⇧ + F5`** |Use Step Filters|
-| **`⌘ + =`** |Zoom In|
-| **`⌘ + -`** |Zoom Out|
+| **`⇧ + ⌘ + .`** | 上一个 Previous|
+| **`⇧ + ⌘ + F6`** | 上一个编辑 Previous Editor|
+| **`⌥ + ⌘ + F7`** | 上一个页面 Previous Page|
+| **`⇧ + ⌘ + F8`** | 上一个断点 Previous Perspective|
+| **`⌥ + ⇞`** | 上一个子标签 Previous Sub-Tab|
+| **`^ + ⇞`** | 上一个标签 Previous Tab|
+| **`⇧ + ⌘ + F7`** | 上一个视图 Previous View|
+| **`⌘ + P`** | 打印 Print|
+| **`⌥ + ↩`** | 属性 Properties|
+| **`⌘ + 3`** | 快速访问 Quick Access|
+| **`⌘ + 1`** | 快速解决 Quick Fix|
+| **`⇧ + ⌘ + L`** | 快速搜索命令 Quick Search Command|
+| **`⌘ + E`** | 快速切换编辑器 Quick Switch Editor|
+| **`⇧ + ⌘ + Z`** | 重做 Redo|
+| **`⇧ + ⌘ + G`** | 工作区中的引用 References in Workspace|
+| **`F5`** | 刷新 Refresh|
+| **`⇧ + ⌦`** | 删除所有可见结果 Remove All Visible Results|
+| **`⌘ + ⌦`** | 删除结果 Remove Result|
+| **`F2`** | 重命名 Rename|
+| **`⌥ + ⌘ + R`** | 重命名-重构 Rename - Refactoring|
+| **`⇧ + ⌘ + F11`** | 运行 Run|
+| **`⌥ + ⌘ + X Q`** | 运行 Ant 构建 Run Ant Build|
+| **`⌥ + ⌘ + X E`** | 运行 Eclipse 应用程序 Run Eclipse Application|
+| **`⌥ + ⌘ + X G`** | 运行 Gradle 测试 Run Gradle Test|
+| **`⌥ + ⌘ + X P`** | 运行 JUnit 插件测试 Run JUnit Plug-in Test|
+| **`⌥ + ⌘ + X T`** | 运行 JUnit 测试 Run JUnit Test|
+| **`⌥ + ⌘ + X A`** | 运行 Java 小程序 Run Java Applet|
+| **`⌥ + ⌘ + X J`** | 运行 Java 应用程序 Run Java Application|
+| **`⌥ + ⇧ + X M`** | 运行 Maven 构建 Run Maven Build|
+| **`⌥ + ⌘ + X O`** | 运行 OSGi 框架 Run OSGi Framework|
+| **`⌥ + ⇧ + X B`** | 运行 Spring Boot 应用程序 Run Spring Boot App|
+| **`⌥ + ⌘ + X X`** | 运行 XSLT 转换 Run XSLT Transformation|
+| **`⌥ + ⇧ + X R`** | 在服务器上运行 Run on Server|
+| **`⌘ + S`** | 保存 Save|
+| **`⇧ + ⌘ + S`** | 保存全部 Save All|
+| **`⇧ + ⌘ + F12`** | 搜索任务的存储库 Search Repository for Task|
+| **`⌘ + A`** | 全选 Select All|
+| **`^ + ⌥ + P`** | 选择 Maven 配置文件 Select Maven Profiles|
+| **`⇧ + F10`** | 显示上下文菜单 Show Context Menu|
+| **`⌥ + ⇧ + ⌘ + →`** | 显示上下文快速视图 Show Context Quick View|
+| **`⌥ + ⇧ + F3`**| 显示贡献插件 Show Contributing Plug-in|
+| **`⌥ + ⌘ + W`** | 显示... Show In...|
+| **`⇧ + ⌘ + L`** | 显示按键辅助 Show Key Assist|
+| **`⇧ + ⌘ + U`** | 在文件快捷菜单中显示事件 Show Occurrences in File Quick Menu|
+| **`⌥ + ⌘ + T`** | 显示重构快捷菜单 Show Refactor Quick Menu|
+| **`⌥ + ⌘ + S`** | 显示资源快捷菜单 Show Source Quick Menu|
+| **`⇧ + ⌘ + F10`** | 显示系统菜单 Show System Menu|
+| **`⌥ + ⌘ + Q D`** | 显示视图 Show View|
+| **`⌥ + ⌘ + Q B`** | 显示视图（断点） Show View(Breakpoints)|
+| **`⌥ + ⌘ + Q H`** | 显示视图（备忘单） Show View(Cheat Sheets)|
+| **`⌥ + ⌘ + Q C`** | 显示视图（控制台） Show View(Console)|
+| **`⌥ + ⌘ + Q L`** | 显示视图（错误日志） Show View(Error Log)|
+| **`⌥ + ⌘ + Q Z`** | 显示视图（历史） Show View(History)|
+| **`⌥ + ⌘ + Q J`** | 显示视图（Javadoc） Show View(Javadoc)|
+| **`⌥ + ⌘ + Q O`** | 显示视图（大纲） Show View(Outline)|
+| **`⌥ + ⌘ + Q P`** | 显示视图（包资源管理器） Show View(Package Explorer)|
+| **`⌥ + ⌘ + Q X`** | 显示视图（问题） Show View(Problems)|
+| **`⌥ + ⌘ + Q S`** | 显示视图（搜索） Show View(Search)|
+| **`⌥ + ⌘ + Q Y`** | 显示视图（同步） Show View(Synchronize)|
+| **`⌥ + ⌘ + Q K`** | 显示视图（任务列表） Show View(Task List)|
+| **`⌥ + ⌘ + Q T`** | 显示视图（类型层次结构） Show View(Type Hierarchy)|
+| **`⌥ + ⌘ + Q V`** | 显示视图（变量） Show View(Variables)|
+| **`⌘ + F10`** | 显示视图菜单 Show View Menu|
+| **`^ + ⌥ + B`** | 跳过所有断点 Skip All Breakpoints|
+| **`⌥ + ⇧ + ⌘ + B S`** | 停止 Stop|
+| **`⌥ + ⌘ + Z`** | 环绕快捷菜单 Surround With Quick Menu|
+| **`⇧ + ⌘ + E`** | 切换到编辑器 Switch to Editor|
+| **`⌘ + Break`** | 终止结果 Terminate Result|
+| **`⇧ + ⌘ + B`** | 切换断点 Toggle Breakpoint|
+| **`^ + ⌘ + F`** | 切换全屏 Toggle Full Screen|
+| **`⇧ + ⌘ + -`** | 切换拆分编辑器（水平） Toggle Split Editor(Horizontal)|
+| **`⇧ + ⌘ + [`** | 切换拆分编辑器（垂直） Toggle Split Editor(Vertical)|
+| **`⌘ + Z`** | 撤消 Undo|
+| **`⌥ + F5`** | 更新项目 Update Project|
+| **`⇧ + F5`** | 使用步骤过滤器 Use Step Filters|
+| **`⌘ + =`** | 放大 Zoom In|
+| **`⌘ + -`** | 缩小 Zoom Out|
