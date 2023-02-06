@@ -57,39 +57,39 @@
 | **`⌥ + ⌘ + |`** | 内联 Inline|
 | **`⇧ + ⌘ + |`** | 检查 Inspect|
 | **`^ + Q`** | 最后编辑位置 Last Edit Location|
-| **`⌥ + ⇧ + ⌘ + F9`** |Layout Spy|
-| **`⌥ + ⇧ + ⌘ + ↑`** |Make Landmark|
-| **`⌥ + ⇧ + ⌘ + ↓`** |Make Less Interesting|
-| **`⌃ + M`** |Maximize Active View or Editor|
-| **`⌥ + ⌘ + V`** |Move - Refactoring|
-| **`⌘ + N`** |New|
-| **`⌥ + ⌘ + N`** |New menu|
-| **`⌘ + .`** |Next|
-| **`⌘ + F6`** |Next Editor|
-| **`⌥ + F7`** |Next Page|
-| **`⌘ + F8`** |Next Perspective|
-| **`⌥ + ⇟`** |Next Sub-Tab|
-| **`^ + ⇟`** |Next Tab|
-| **`⌘ + F7`** |Next View|
-| **`⇧ + F2`** |Open Attached Javadoc|
-| **`^ + ⌥ + H`** |Open Call Hierarchy|
-| **`F3`** |Open Declaration|
-| **`^ + ⌥ + ⇧ + T`** |Open Local Terminal on Selection|
-| **`⌥ + ⇧ + ⌘ + M`** |Open Manifest|
-| **`⌥ + ⇧ + P`** |Open Maven POM|
-| **`⇧ + ⌘ + A`** |Open Plug-in Artifact|
-| **`⌥ + ⇧ + ⌘ + F12`** |Open Remote Task|
-| **`⇧ + ⌘ + R`** |Open Resource|
-| **`^ + H`** |Open Search Dialog|
-| **`⌥ + ⌘ + F12`** |Open Task|
-| **`⇧ + ⌘ + T`** |Open Type|
-| **`F4`** |Open Type Hierarchy|
-| **`⇧ + ⌘ + H`** |Open Type in Hierarchy|
-| **`⇧ + ⌘ + V`** |Open from Clipboard|
-| **`⇧ + ⌘ + O`** |Organize Imports|
-| **`⌘ + V`** |Paste|
-| **`⌥ + ⇧ + F2`** |Plug-in Menu Spy|
-| **`⌥ + ⇧ + F1`** |Plug-in Selection Spy|
+| **`⌥ + ⇧ + ⌘ + F9`** | 隐藏布局 Layout Spy|
+| **`⌥ + ⇧ + ⌘ + ↑`** | 制作里程碑 Make Landmark|
+| **`⌥ + ⇧ + ⌘ + ↓`** | 使不感兴趣 Make Less Interesting|
+| **`⌃ + M`** | 最大化视图或者编辑器 Maximize Active View or Editor|
+| **`⌥ + ⌘ + V`** | 移动-重构 Move - Refactoring|
+| **`⌘ + N`** | 新建 New|
+| **`⌥ + ⌘ + N`** | 新建菜单 New menu|
+| **`⌘ + .`** | 下一个 Next|
+| **`⌘ + F6`** | 下一个编辑器 Next Editor|
+| **`⌥ + F7`** | 下一页 Next Page|
+| **`⌘ + F8`** | 下一个视角 Next Perspective|
+| **`⌥ + ⇟`** | 下一个子标签 Next Sub-Tab|
+| **`^ + ⇟`** | 下一个标签 Next Tab|
+| **`⌘ + F7`** | 下一个视图 Next View|
+| **`⇧ + F2`** | 打开附加的Java文档 Open Attached Javadoc|
+| **`^ + ⌥ + H`** | 打开调用层次结构 Open Call Hierarchy|
+| **`F3`** | 打开申明 Open Declaration|
+| **`^ + ⌥ + ⇧ + T`** | 在选项卡打开本地终端 Open Local Terminal on Selection|
+| **`⌥ + ⇧ + ⌘ + M`** | 打开清单 Open Manifest|
+| **`⌥ + ⇧ + P`** | 打开Maven POM Open Maven POM|
+| **`⇧ + ⌘ + A`** | 打开插件神器 Open Plug-in Artifact|
+| **`⌥ + ⇧ + ⌘ + F12`** | 打开远程任务 Open Remote Task|
+| **`⇧ + ⌘ + R`** | 打开资源 Open Resource|
+| **`^ + H`** | 打开搜索对话框 Open Search Dialog|
+| **`⌥ + ⌘ + F12`** | 打开任务 Open Task|
+| **`⇧ + ⌘ + T`** | 打开类型 Open Type|
+| **`F4`** | 打开类型层次结构 Open Type Hierarchy|
+| **`⇧ + ⌘ + H`** | 在层次结构中打开类型 Open Type in Hierarchy|
+| **`⇧ + ⌘ + V`** | 从剪贴板打开 Open from Clipboard|
+| **`⇧ + ⌘ + O`** | 导入组织 Organize Imports|
+| **`⌘ + V`** | 粘贴 Paste|
+| **`⌥ + ⇧ + F2`** | 隐藏插件菜单 Plug-in Menu Spy|
+| **`⌥ + ⇧ + F1`** | 隐藏插件选择 Plug-in Selection Spy|
 | **`⇧ + ⌘ + .`** |Previous|
 | **`⇧ + ⌘ + F6`** |Previous Editor|
 | **`⌥ + ⌘ + F7`** |Previous Page|
